@@ -1,2 +1,2 @@
-# project-management DRAFT
-This is a draft branch for all creating all documents to be reviewed and approved.
+# project-management TEMPLATES
+This is the template branch which contains markdown format guides for creating documents

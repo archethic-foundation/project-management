@@ -1,2 +1,2 @@
-# project-management
-Project Management for various initiatives affecting the Archethic Blockchain Protocol
+# project-management DRAFT
+This is a draft branch for all creating all documents to be reviewed and approved.

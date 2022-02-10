@@ -11,6 +11,8 @@
 - AE Web second goal
 - Third Goal
 
+> Total Story Points (Targeted): 
+
 #### Scope
 
 ##### AE Blockchain
@@ -21,5 +23,10 @@
 ##### AE Web
 - [#20 Feature - Integration of wallet app](https://github.com/archethic-foundation/aeweb-cli/issues/20)
 - [#20 Feature - Integration of wallet app](https://github.com/archethic-foundation/aeweb-cli/issues/20)
+
+
+#### Comments
+- xxx
+- xxx
 
 

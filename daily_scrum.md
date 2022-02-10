@@ -12,15 +12,18 @@
 
 #### What will we work on today ?
 
-- [#NN Bug - Description of the issue  ](https://github.com/archethic-foundation/archethic-node)
+- [#NN](https://github.com/archethic-foundation/archethic-node/issues/)
 - [#NN Bug - Description of the issue  ](https://github.com/archethic-foundation/archethic-node)
 - [#NN Bug - Description of the issue  ](https://github.com/archethic-foundation/archethic-node)
 - [#20 Feature - Integration of wallet app](https://github.com/archethic-foundation/aeweb-cli/issues/20)
 - [#20 Feature - Integration of wallet app](https://github.com/archethic-foundation/aeweb-cli/issues/20)
 
-#### Blockages
+#### Blockages and solutions
 - problem 1
+    - solution
 - problem 2
+    - solution
 - problem 3
+    - solution
 
 

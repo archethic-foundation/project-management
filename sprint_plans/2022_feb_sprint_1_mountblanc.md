@@ -7,9 +7,9 @@
 
 #### Goal
 
-- AE Blockchain first goal
-- AE Web second goal
-- Third Goal
+- xxx
+- xxx
+- xxx
 
 #### Target
 - Total Issues: xxx

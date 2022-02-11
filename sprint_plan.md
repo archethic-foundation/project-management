@@ -11,7 +11,10 @@
 - AE Web second goal
 - Third Goal
 
-> Total Story Points (Targeted): 
+#### Target
+- Total Issues: xxx
+- Total Story Points: xxx
+
 
 #### Scope
 

@@ -19,9 +19,9 @@
 #### Scope
 
 ##### AE Blockchain
-- [#NN Bug - Description of the issue  ](https://github.com/archethic-foundation/archethic-node)
-- [#NN Bug - Description of the issue  ](https://github.com/archethic-foundation/archethic-node)
-- [#NN Bug - Description of the issue  ](https://github.com/archethic-foundation/archethic-node)
+- [#NN Bug - Description of the issue  ](https://github.com/archethic-foundation/archethic-node/issues/)
+- [#NN Bug - Description of the issue  ](https://github.com/archethic-foundation/archethic-nodeissues/)
+- [#NN Bug - Description of the issue  ](https://github.com/archethic-foundation/archethic-node/issues/)
 
 ##### AE Web
 - [#20 Feature - Integration of wallet app](https://github.com/archethic-foundation/aeweb-cli/issues/20)

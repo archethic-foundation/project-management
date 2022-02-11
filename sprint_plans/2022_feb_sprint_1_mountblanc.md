@@ -11,6 +11,11 @@
 - AE Web second goal
 - Third Goal
 
+#### Target
+- Total Issues: xxx
+- Total Story Points: xxx
+
+
 #### Scope
 
 ##### AE Blockchain

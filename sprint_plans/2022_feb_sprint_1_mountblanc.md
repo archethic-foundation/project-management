@@ -12,8 +12,8 @@
 - xxx
 
 #### Target
-- Total Issues: xxx
-- Total Story Points: 
+- Total Issues: 19
+- Total Story Points: 131 
 
 
 #### Scope

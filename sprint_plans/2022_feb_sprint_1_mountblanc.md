@@ -5,20 +5,28 @@
 
 > 14-Feb-2022 to 25-Feb-2022
 
-#### Goal
+### Goal
 
-- xxx
-- xxx
-- xxx
+#### AE Blockchain: 
+- Deploy the Metric Dashboard (commonly called as Telemetry)
+- Develop further the beacon chain and self-repair mechanism
+- Understand the transaction/transaction chain's behaviour (max size + timeouts)
 
-#### Target
+#### AE Biometrics: 
+- Explore the latest edge detection techniques for the fingerprint and provide some AI approaches. 
+
+#### AEWeb:
+- Through CLI deploy files/folders on Archethic Blockchain
+
+
+### Target
 - Total Issues: 19
 - Total Story Points: 131 
 
 
-#### Scope
+### Scope
 
-##### AE Blockchain
+#### AE Blockchain
 - [#165 Feature - Set the maximum size of the transaction's content](https://github.com/archethic-foundation/archethic-node/issues/165)
 - [#180 Bug - GetTransactionChain query timeouts after sometime](https://github.com/archethic-foundation/archethic-node/issues/180)
 - [#161 Feature - Curve Type in the Transaction address](https://github.com/archethic-foundation/archethic-node/issues/161)
@@ -32,13 +40,13 @@
 - [#205 Feature - Metric Dashboard PR2](https://github.com/archethic-foundation/archethic-node/issues/205)
 
 
-##### AE Biometrics
+#### AE Biometrics
 - [#3 Feature - Edge Detection with HED](https://github.com/archethic-technologies/biometrics-seed-extraction/issues/3)
 - [#1 Feature - Feature Extraction of Minutae](https://github.com/archethic-technologies/biometrics-seed-extraction/issues/1)
 - [#2 Feature - Multi-level architecture of feature detection](https://github.com/archethic-technologies/biometrics-seed-extraction/issues/2)
 
 
-##### AE Web
+#### AEWeb
 - [#35 Feature - Automation to detect files path inside index.html](https://github.com/archethic-foundation/aeweb-cli/issues/35)
 - [#36 Feature - Replace the file path with transaction address](https://github.com/archethic-foundation/aeweb-cli/issues/36)
 - [#32 Feature - Inform the fee and wait approval](https://github.com/archethic-foundation/aeweb-cli/issues/32)

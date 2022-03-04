@@ -7,12 +7,14 @@
 ### Goal
 
 #### AE Blockchain:
-- xxx
-- xxx
+- The focus is on enhancing few features in beaconchain summary and beacon live updates
+- Implementing the hybrid root of trust
+- Snap packaging
+- Archethic website (remodelling)
 
 #### AE Biometrics: 
-- xxx
-- xxx
+- Fuzzy extractor 
+- Getting a high redability of the fingerprint (+device setup)
 
 ### Target
 - Total Issues: 27

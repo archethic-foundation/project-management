@@ -6,17 +6,17 @@
 
 ### Goal
 
-#### AE Blockchain:
-- xxx
-- xxx
+#### AE Blockchain: 
+- Focus on resolving and fixing a few bugs and issues to further stabilize the network. 
+- Fully implement the Geo-location Patch Algorithm
 
 #### AE Biometrics: 
-- xxx
-- xxx
+- Minutiae feature extraction to extract the fingerprint needed for the crypto-biometrics
+- Exploring further the various AI Algorithms that could help in the minutiae extraction
 
-#### AE Web: 
-- xxx
-- xxx
+#### AE Apps: 
+- Transaction fee information to be added for AEWeb (very important for the mass adoption of AEWeb)
+- AE App prototype features and product backlog
 
 ### Target
 - Total Issues: 19
@@ -47,7 +47,7 @@
  - [10 Task - Minutiae Feature extraction Part 1](https://github.com/archethic-foundation/biometrics-seed-extraction/issues/10)
 
 
-#### AE Web
+#### AE Apps
  - [43 Feature - Support nested html page analysis](https://github.com/archethic-foundation/aeweb-cli/issues/43)
  - [14 Feature - App Prototype: AE App Initial Flows Screens](https://github.com/archethic-foundation/dapp-bin/issues/14)
  - [46 Feature - Await replications confirmation](https://github.com/archethic-foundation/aeweb-cli/issues/46)

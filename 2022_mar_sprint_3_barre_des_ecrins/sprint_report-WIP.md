@@ -1,9 +1,9 @@
 #### Issues added in-sprint
 
-- https://github.com/archethic-foundation/archethic-node/issues/124
-- https://github.com/archethic-foundation/archethic-website/issues/52
-- https://github.com/archethic-foundation/archethic-website/issues/60
-- https://github.com/archethic-foundation/archethic-snap/issues/14
+- Day 1: https://github.com/archethic-foundation/archethic-node/issues/124
+- Day 2: https://github.com/archethic-foundation/archethic-website/issues/52
+- Day 2: https://github.com/archethic-foundation/archethic-website/issues/60
+- Day 2: https://github.com/archethic-foundation/archethic-snap/issues/14
 
 
 #### Observations

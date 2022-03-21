@@ -19,5 +19,6 @@
 - Saurav: 18.3.22 (Day 5)
 
 #### Meeting Overboard
-- Stand-up 15.3 - 10 m
-- Stand-up 18.3 - 7 m
+- Stand-up 15.3 - 10m
+- Stand-up 18.3 - 7m
+- Stand-up 21.3 - 5m

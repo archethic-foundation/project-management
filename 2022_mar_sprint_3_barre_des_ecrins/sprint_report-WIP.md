@@ -22,3 +22,17 @@
 - Stand-up 15.3 - 10m
 - Stand-up 18.3 - 7m
 - Stand-up 21.3 - 5m
+
+
+#### Target
+- Num. of Issues: 
+
+
+
+#### Actual
+- Sprint Backlog: 5 Issues | 68 points
+- DIP Today: 4 issues | 77 points
+- Blockage / Dependency: 2 issues | 16 points
+- Review / QA: 6 issues | 34 points
+
+

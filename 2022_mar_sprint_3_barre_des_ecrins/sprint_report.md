@@ -20,12 +20,6 @@
 - Blockage / Dependency: 2 issues | 16 points
 - Review / QA: 6 issues | 34 points
 
-#### Leaves
-- Lucy: 17.3.22 (Day 4)
-- Lucy: 18.3.22 (Day 5)
-- Prince: 18.3.22 (Day 5)
-- Saurav: 18.3.22 (Day 5)
-
 ### Issues added in-sprint
 
 #### 6 Issues | 71 Points

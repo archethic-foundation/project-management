@@ -35,7 +35,7 @@
 - Review / QA: 6 issues | 34 points
 
 
-### Unavailability: 32 Hours
+### Team Availability: 94% (472 / 504 Hours)
 
 #### Leaves
 - Lucy: 17.3.22 (Day 4)

@@ -43,7 +43,7 @@ Complete snap deployment in Linux
  - [14 Task - Minutiae Feature Extraction: AI Algorithm](https://github.com/archethic-foundation/biometrics-seed-extraction/issues/14)
  - [10 Task - Minutiae Feature extraction Part 1](https://github.com/archethic-foundation/biometrics-seed-extraction/issues/10)
 
-#### AE Web
+#### AE Web and AE Website
  - [44 Feature - Inform the fee and wait approval](https://github.com/archethic-foundation/aeweb-cli/issues/44)
  - [43 Feature - Support nested html page analysis](https://github.com/archethic-foundation/aeweb-cli/issues/43)
  - [40 Task - Add unit tests](https://github.com/archethic-foundation/aeweb-cli/issues/40)

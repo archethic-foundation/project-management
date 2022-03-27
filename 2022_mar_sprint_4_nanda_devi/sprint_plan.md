@@ -7,16 +7,19 @@
 ### Goal
 
 #### AE Blockchain:
-Complete snap deployment in Linux
-- xxx
+- Complete snap deployment in Linux. (also test the snap package built until now)
+- Fix the Geolocation patch algorithm and plot the nodes in the 2D World map
+- Benchmark TPS per node: This benchmark would be the basis to calculate the various other parameters of the AE Blockchain
+- Futher minor additions to the AE Blockchain
 
 #### AE Biometrics: 
-- xxx
-- xxx
+- Based on the previous work of the Fuzzy extractor, finetune the model and provide better results with more testing
+- Development of the Minutiae extraction algorithm
 
-#### AE Web: 
-- xxx
-- xxx
+#### AE Web and AE Website: 
+- Inform the user of the transaction fees (in UCO and USD) of the AEWeb
+- Other minor additions to AEWeb
+- Rework AE Website based on feedback of the community and provide the archethic-assets repo on Github with all the assets.
 
 ### Target
 - Total Issues: 16

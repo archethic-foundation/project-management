@@ -23,7 +23,7 @@
 
 ### Target
 - Total Issues: 16
-- Total Story Points: 216
+- Total Story Points: 207
 
 #### Carry Forwards
 - Issues carried from last sprint: 7| Story Points: 115

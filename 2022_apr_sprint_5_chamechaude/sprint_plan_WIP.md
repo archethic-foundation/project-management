@@ -22,6 +22,8 @@ Complete snap deployment in Linux
 - Total Issues: 13
 - Total Story Points: 140
 
+> PR Count: 5
+
 #### Carry Forwards
 - Issues carried from last sprint: 1 | Story Points: 13
 - Issues carried from last 2 sprints: 1 | Story Points: 8

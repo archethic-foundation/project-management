@@ -7,16 +7,19 @@
 ### Goal
 
 #### AE Blockchain:
-Complete snap deployment in Linux
-- xxx
+- Fully deploy and test the geographical coordinates of nodes and their patches
+- Get the genesis address / first public of the chain and bug fix the error message and timeouts related to it 
+
+#### AE Packaging: 
+- Design and documentation of customising the node environment variables and SSH port forwarding and access
 
 #### AE Biometrics: 
-- xxx
-- xxx
+- ATECC608A Development With Cryptoauthlib - Configuration Zone and Slot Policies
+- From just the raw fingerprint data get the vectorized fingerprint image
 
-#### AE Web: 
-- xxx
-- xxx
+#### AE Website: 
+- Improve the performance of Archethic Website (using packages like gulp, esbuild, webpack)
+- Deploy the AE Website's Branding Page (desktop + mobile) versions.
 
 ### Target
 - Total Issues: 13
@@ -42,17 +45,16 @@ Complete snap deployment in Linux
  - [272 Bug - Improve GetFirstPublicKey message](https://github.com/archethic-foundation/archethic-node/issues/272)
  - [278 PR - Fix faucet's alert width](https://github.com/archethic-foundation/archethic-node/issues/278)
  - [279 PR - Fix the shared secret keystore loading](https://github.com/archethic-foundation/archethic-node/issues/279)
+
+#### AE Packaging
  - [17 Task - Customise node environment variables (design & review)](https://github.com/archethic-foundation/archethic-snap/issues/17)
  - [18 Task - Add SSH port forwarding and access (research & review)](https://github.com/archethic-foundation/archethic-snap/issues/18)
 
-
-
 #### AE Biometrics
- - [18 Task - Finger print extraction (Part 4): ATECC608A Development With Cryptoauthlib - Configuration Zone and Slot Policies](https://github.com/archethic-foundation/biometrics-seed-extraction/issues/18)
+ - [18 Task - Finger print extraction (Part 4/8): ATECC608A Development With Cryptoauthlib - Configuration Zone and Slot Policies](https://github.com/archethic-foundation/biometrics-seed-extraction/issues/18)
  - [21 Feature - Vectorized Fingerprint Image](https://github.com/archethic-foundation/biometrics-seed-extraction/issues/21)
 
-
-#### AE Web
+#### AE Website
  - [64 Feature - Improve the performance of Archethic Website](https://github.com/archethic-foundation/archethic-website/issues/64)
  - [62 Feature - AE Website's Branding Page => Add a page's menu (on mobile version)](https://github.com/archethic-foundation/archethic-assets/issues/62)
  - [62 Feature - Copyright](https://github.com/archethic-foundation/archethic-assets/issues/62)

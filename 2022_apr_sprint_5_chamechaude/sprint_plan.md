@@ -56,5 +56,5 @@
 
 #### AE Website
  - [64 Feature - Improve the performance of Archethic Website](https://github.com/archethic-foundation/archethic-website/issues/64)
- - [62 Feature - AE Website's Branding Page => Add a page's menu (on mobile version)](https://github.com/archethic-foundation/archethic-assets/issues/62)
- - [62 Feature - Copyright](https://github.com/archethic-foundation/archethic-assets/issues/62)
+ - [62 Feature - AE Website's Branding Page => Add a page's menu (on mobile version)](https://github.com/archethic-foundation/archethic-website/issues/62)
+ - [59 Feature - Copyright](https://github.com/archethic-foundation/archethic-website/issues/59)

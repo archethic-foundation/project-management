@@ -2,7 +2,7 @@
 
 ## Chamechaude
 
-> 28-Mar-22 to 08-Apr-22
+> 07-Apr-22 to 20-Apr-22
 
 ### Goal
 

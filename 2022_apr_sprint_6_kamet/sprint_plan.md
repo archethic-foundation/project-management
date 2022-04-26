@@ -21,10 +21,8 @@
 - Further improve the performance of Archethic Website and provide the lighthouse score before/after
 
 ### Target
-- Total Issues: 14
+- Total Issues: 12
 - Total Story Points: 172
-
-> PR Count: 2
 
 #### Carry Forwards
 - Issues carried from last sprint: 7 | Story Points: 84
@@ -34,29 +32,21 @@
 
 #### AE Blockchain
  - [12 Feature - Support Keychain creation](https://github.com/archethic-foundation/libjs/issues/12)
- - [268 PR - Add fn in SC lib to get genesis address in smart contract](https://github.com/archethic-foundation/archethic-node/issues/268)
  - [272 Bug - Transaction already exists](https://github.com/archethic-foundation/archethic-node/issues/272)
  - [273 Bug - Timeout for transaction's context notification](https://github.com/archethic-foundation/archethic-node/issues/273)
  - [277 Feature - Benchmark one to one UCO transfer](https://github.com/archethic-foundation/archethic-node/issues/277)
- - [267 PR - 277 [WIP]: Benchmarking TPS per Node](https://github.com/archethic-foundation/archethic-node/issues/267)
  - [270 Bug - IPLookup is unable to detect and avoid forbidden IP ranges](https://github.com/archethic-foundation/archethic-node/issues/270)
  - [275 Feature - Leverage sharded origin keys](https://github.com/archethic-foundation/archethic-node/issues/275)
  - [285 Bug - Failure in the tests during CI](https://github.com/archethic-foundation/archethic-node/issues/285)
 
-
-
 #### AE Packaging
  - [22 Feature - Customise node environment variables (implementation and testing)](https://github.com/archethic-foundation/archethic-snap/issues/22)
-
-
-
 
 #### AE Biometrics
  - [19 Task - Finger print extraction (Part 6/8): ATECC608A Development With Cryptoauthlib - Data Types of Slots](https://github.com/archethic-foundation/biometrics-seed-extraction/issues/19)
  - [20 Task - Fingerprint Image Segmentation (Part 1/3)](https://github.com/archethic-foundation/biometrics-seed-extraction/issues/20)
  - [21 Feature - Vectorized Fingerprint Image](https://github.com/archethic-foundation/biometrics-seed-extraction/issues/21)
  - [23 Task - Finger print extraction (Part 7/8): ATECC608A Development With Cryptoauthlib- Create asymmetric keys with random data](https://github.com/archethic-foundation/biometrics-seed-extraction/issues/23)
-
 
 #### AE Website
  - [64 Feature - Improve the performance of Archethic Website](https://github.com/archethic-foundation/archethic-website/issues/64)

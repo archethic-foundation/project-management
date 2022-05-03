@@ -35,7 +35,7 @@
 - [#206 Feature - Implement replicas confirmation](https://github.com/archethic-foundation/archethic-node/issues/206)
 - [#192 Feature - Ensure transaction availability by crosslinking shards and beacon chains](https://github.com/archethic-foundation/archethic-node/issues/192)
 - [#193 Bug - Network split in self-repair](https://github.com/archethic-foundation/archethic-node/issues/193)
-- [#194 PR - Fix some beacon chain and self repair issues](https://github.com/archethic-foundation/archethic-nodeissues/194)
+- [#194 PR - Fix some beacon chain and self repair issues](https://github.com/archethic-foundation/archethic-node/issues/194)
 - [#179 Bug - BeaconChain Node Availability Network Split](https://github.com/archethic-foundation/archethic-node/issues/179)
 - [#205 Feature - Metric Dashboard PR2](https://github.com/archethic-foundation/archethic-node/issues/205)
 

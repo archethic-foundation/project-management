@@ -8,6 +8,7 @@
 
 #### AE Blockchain:
 - Get the genesis address / first public of the chain and bug fix the error message and timeouts related to it
+- Support Keychain creation
 - Get the 2D world map of AE nodes and add node worldmap in explorer
 
 #### AE Packaging

@@ -49,4 +49,4 @@
 
 ### Observations
 - Waiting Buckets: Issues from QA / Review and Blockage / Dependencies need immediate attention
-- In sprint Issues: 
+- In sprint Issues: Lot of issues are brought in the sprint after start

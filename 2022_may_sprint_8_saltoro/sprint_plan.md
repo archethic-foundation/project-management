@@ -7,7 +7,7 @@
 ### Goal
 
 #### AE Blockchain:
-- Testnet Live with at least 3 nodes 
+- Move testnet nodes to physical AE miners/nodes
 - Change the derivation path for the wallet 
 - Finalization of NFT (Standards & their definition) 
 - Bug and error fixes (already in sprint backlog) 

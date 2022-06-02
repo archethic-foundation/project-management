@@ -6,7 +6,7 @@
 
 ### Goal
 
-#### AE Blockchain (Full Backend)
+#### AE Blockchain (Backend)
 - Testnet Live with at least 3 nodes 
 - Testnet Stabilisation (also Global) 
 - Origin Key Management / Device authorised key based on certificate
@@ -16,7 +16,7 @@
 - P2P Improvements
 - UTXO management with IDs
 
-#### AE Website and Wallet (Front End)
+#### AE Website and Wallet (Frontend)
 - Finalization the Website Optimization (esbuild, webpack, etc...)
 - Community section of the website 
 - 99designs application

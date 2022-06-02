@@ -11,7 +11,7 @@
 - Testnet Stabilisation (also Global) 
 - Origin Key Management / Device authorised key based on certificate
 - Ledger Key implementation
-- AEWeb (improvements)
+- AEWeb (backend improvements)
 - Networking Improvements (Port forwarding, UPnP, etc…)
 - P2P Improvements
 - UTXO management with IDs
@@ -22,6 +22,11 @@
 - 99designs application
 - Add Keychain management
 - multi accounts management 
+
+#### AE Biometrics 
+- Documentation finalization and approval (Global View)
+- Test the Minutiae extraction algorithm (results + redesign if needed)
+
 
 ### Scope
 

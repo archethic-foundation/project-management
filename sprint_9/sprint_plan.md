@@ -27,4 +27,4 @@
 
 #### AE Blockchain
 example
-- [253 Bug - Fix GeoPatch algorithm](https://github.com/archethic-foundation/archethic-node/issues/253)
+- archethic-foundation/archethic-node#291 Improve performance of the BeaconChain explorer

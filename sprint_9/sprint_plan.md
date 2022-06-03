@@ -18,7 +18,6 @@
 
 #### AE Website and Wallet (Frontend)
 - Finalization the Website Optimization (esbuild, webpack, etc...)
-- Community section of the website 
 - 99designs application
 - Add Keychain management
 - multi accounts management 

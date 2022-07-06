@@ -1,6 +1,4 @@
-# Sprint 11
-
-## 
+# Sprint 11 (Le Grand Morgon)
 
 > 30-June-22 to 13-July-22
 

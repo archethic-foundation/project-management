@@ -5,19 +5,19 @@
 ### Goal
 
 #### AE Blockchain:
-- Miner Remuneration building 
-- Blockchain Documentation: Full Documentation review (full blockchain) https://archethic-foundation.github.io/archethic-docs/
+- Finalize building the Miner Remuneration algorithm
 - Testnet (Stabilization)
 - Other bug fixes
+- Full Blockchain Documentation review https://archethic-foundation.github.io/archethic-docs/
 
 #### AE Website: 
-- Provide a website with reliable informations (Roadmap, how Archethic scales upto other blockchains section, …)
+- Provide a website with more reliable informations (Roadmap, how Archethic scales upto other blockchains section, …)
+- Clean and provide better versions of community and tech update sections
+- Provide an improvised version of wireframes for Marketing team to review
 
 #### AE Wallet:
 - Stabilize the app for the mainnet (last sprint)
-- Stores Configuration
-- T&C, Privacy Policy, FAQs...? (are they needed for this sprint)
-
+- App Stores Configuration
 
 ### Scope
 

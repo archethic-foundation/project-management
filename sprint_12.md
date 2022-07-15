@@ -39,3 +39,7 @@
 - archethic-foundation/archethic-wallet#136 Service's keychain : Add all characters in naming
 - archethic-foundation/archethic-wallet#139 Keyboard hides infos or buttons
 
+#### AE Keychains and ID Management
+- archethic-foundation/biometrics#43 Prototyping DID with Python and Libsodium Part 1/3: Implementing Cryptography Functions
+- archethic-foundation/biometrics#44 Prototyping DID with Python and Libsodium Part 2/3: Implementing Transaction Structure / Accessing
+- archethic-foundation/biometrics#45 Prototyping DID with Python and Libsodium Part 3/3: Implementing DID

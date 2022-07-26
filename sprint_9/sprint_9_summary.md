@@ -26,7 +26,6 @@
 - Documentation finalization and approval (Global View)
 - Test the Minutiae extraction algorithm (results + redesign if needed)
 
-
 ### Scope
 
 #### Archethic Blockchain
@@ -68,3 +67,16 @@
 - archethic-foundation/archethic-wallet#84 [Feature] - Add Keychain management
 - archethic-foundation/archethic-wallet#80 Hive error
 - archethic-foundation/archethic-wallet#88 Simplify the derivation path for the Archethic purpose
+
+### Target
+Total Issues: 34 (2 issues from previous sprint)
+Total Story Points: 210
+
+### Target Achieved
+Total Issues Completed: 26 
+Total Story Points Completed: 187
+
+### Observations
+- Issues got broken into smaller chuncks, which helped closures
+- Waiting Buckets: Issues from QA / Review and Blockage / Dependencies need immediate attention
+

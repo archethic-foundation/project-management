@@ -63,12 +63,6 @@
 - [60 Feature - Rework on the Archethic website based on the feedbacks](https://github.com/archethic-foundation/archethic-website/issues/60)
 
 
-# Sprint 4
-
-## Nanda Devi
-
-> 28-Mar-22 to 08-Apr-22
-
 ### Team Availability: 100%
 
 ### Target

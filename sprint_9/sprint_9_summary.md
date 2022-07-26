@@ -69,12 +69,12 @@
 - archethic-foundation/archethic-wallet#88 Simplify the derivation path for the Archethic purpose
 
 ### Target
-Total Issues: 34 (2 issues from previous sprint)
-Total Story Points: 210
+- Total Issues: 34 (2 issues from previous sprint)
+- Total Story Points: 210
 
 ### Target Achieved
-Total Issues Completed: 26 
-Total Story Points Completed: 187
+- Total Issues Completed: 26 
+- Total Story Points Completed: 187
 
 ### Observations
 - Issues got broken into smaller chuncks, which helped closures

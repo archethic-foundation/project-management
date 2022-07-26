@@ -59,3 +59,16 @@
 - archethic-foundation/archethic-wallet#137 Send UCO : Improve UX to avoid the feeling of latency
 - archethic-foundation/archethic-wallet#101 Add a timescale on the chart
 - archethic-foundation/archethic-wallet#108 Optimize UI in onboarding process
+
+### Target: 
+- Total Issues: 33
+- Total Story Points: 214
+
+### Target Achieved:
+- Total Issues Completed: 26
+- Total Story Points: 150 
+
+### Observations: 
+- 7 Issues (64 Points) taken to next sprint
+- Closure: Many issues are not able to get to the closure.
+- PR Effort: Too much time and effort is required / taken for PR.

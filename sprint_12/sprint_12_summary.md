@@ -27,19 +27,37 @@
  - archethic-foundation/archethic-node#380 Mint miner rewards token on self-repair cycle
  - archethic-foundation/archethic-node#445 Transaction subscriber should also returns error
  - archethic-foundation/archethic-node#447 Faucet - Provide control over the transaction chain and all nodes
+ - archethic-foundation/archethic-node#456 Return fully validated transaction on Transaction Subscriber
+ - archethic-foundation/archethic-node#458 Beacon chain loading takes to much time on explorer
+ - archethic-foundation/archethic-node#430 Deserialization of Beacon Slot failed
+ - archethic-foundation/archethic-node#473 Internal error when querying explorer/transactions
+ - archethic-foundation/archethic-node#471 Internal error on graphql when requesting transaction input
+ - archethic-foundation/archethic-node#469 Task timeout during mining process
+ - archethic-foundation/libjs#63 Implement VarInt when getting signature payload
+ - archethic-foundation/archethic-node#460 Node shared secrets chain write in loop during self repair
+ - archethic-foundation/archethic-node#461 Database folder problem when releasing a new version
+ - archethic-foundation/archethic-node#230 Take the testnet live on atleast 3 AE nodes
+ - archethic-foundation/archethic-node#434 Database crash : Caused by terminating chain reader Process
+ - archethic-foundation/archethic-node#425 Self-Repair timeouts with the new batching of summaries
 
 #### AE Website
 - archethic-foundation/archethic-website#79 Bridge - Explore solution
-- archethic-foundation/archethic-website#83 Project architecture - structuration and hidden files
 - archethic-foundation/archethic-website#87 Tech update section : Improve Look and feel
-
-#### AE Wallet
-- archethic-foundation/archethic-wallet#108 Optimize UI in onboarding process
-- archethic-foundation/archethic-wallet#144 Change networks - Keychain management
-- archethic-foundation/archethic-wallet#136 Service's keychain : Add all characters in naming
-- archethic-foundation/archethic-wallet#139 Keyboard hides infos or buttons
+- archethic-foundation/archethic-website#94 Change ÆWeb by AEWeb everywhere in aeweb.html
+- archethic-foundation/archethic-website#95 Mainnet Tasks
+- archethic-foundation/archethic-website#96 Integrate in main page Nodes worldmap emplacement
 
 #### AE Keychains and ID Management
 - archethic-foundation/biometrics#43 Prototyping DID with Python and Libsodium Part 1/3: Implementing Cryptography Functions
 - archethic-foundation/biometrics#44 Prototyping DID with Python and Libsodium Part 2/3: Implementing Transaction Structure / Accessing
 - archethic-foundation/biometrics#45 Prototyping DID with Python and Libsodium Part 3/3: Implementing DID
+
+### Target
+- Total Issues: 28
+- Total Story Points: 
+
+### Target Achieved
+- Total Issues completed: 
+- Total Story Points completed: 
+
+### Observations 

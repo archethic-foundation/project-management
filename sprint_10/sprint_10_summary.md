@@ -50,3 +50,23 @@
 - archethic-foundation/archethic-website#80 Labs page : Changes
 - archethic-foundation/archethic-website#58 AEWeb.html : The screen is shaking
 - archethic-foundation/archethic-website#70 Automate the community section articles
+
+#### AE Wallet
+- archethic-foundation/archethic-wallet#81 Transactions list : manage paging correctly
+- archethic-foundation/archethic-wallet#102 Stabilize refresh informations on main screen
+- archethic-foundation/archethic-wallet#93 Logout - deletion of data is not complete
+- archethic-foundation/archethic-wallet#76 Lock app - Refactoring
+- archethic-foundation/archethic-wallet#105 Chart detail is no longer available
+- archethic-foundation/archethic-wallet#107 Optimize graphQL requests to limit the transfer of informations
+- archethic-foundation/archethic-wallet#106 Oracle notification is no longer available
+- archethic-foundation/archethic-wallet#100 Optimize coingecko request to limit the transfer of informations
+
+### Target 
+- Total Issues: 30 
+- Total Story Points: 192
+
+#### Target Achieved
+- Total Issues: 25
+- Total Story Points: 143
+
+

@@ -75,7 +75,8 @@
 
 ### Target Achieved
 - Total Issues completed: 28
-- Total Story Points completed: (need to be determined)
+- Total Story Points completed (This is not considered for this sprint as a lot of bugs were fixed and the story points of bugs could not be added)
 
 ### Observations 
-
+- The team delivered well the Mainnet Bug bounty with fast fixing of bugs and its stabilization
+- Need to better track and estimate the bugs that arise mid sprint 

@@ -11,9 +11,13 @@
 #### AE Website: 
 - Tech update section: Improve look and feel
 - Website architecture (hidden files) to be redesigned
+- like in production, synchronize the preprod branch to the preprod environment (http redirection to be added)
+- Integrate in main page Nodes worldmap emplacement
 
 #### AE Wallet:
 - Optimize UI in onboarding process
+- Increase the nb of tx on the main screen
+- Change Account (If users change account before loading the keychains)
 - Bug bounty tracking and fixing important bugs 
 
 ### Scope
@@ -39,6 +43,7 @@
  - archethic-foundation/archethic-node#230 Take the testnet live on atleast 3 AE nodes
  - archethic-foundation/archethic-node#434 Database crash : Caused by terminating chain reader Process
  - archethic-foundation/archethic-node#425 Self-Repair timeouts with the new batching of summaries
+ - archethic-foundation/archethic-node#457 Catch JSON format error on Explorer
 
 #### AE Website
 - archethic-foundation/archethic-website#79 Bridge - Explore solution
@@ -46,18 +51,31 @@
 - archethic-foundation/archethic-website#94 Change ÆWeb by AEWeb everywhere in aeweb.html
 - archethic-foundation/archethic-website#95 Mainnet Tasks
 - archethic-foundation/archethic-website#96 Integrate in main page Nodes worldmap emplacement
+#### - archethic-foundation/archethic-website#103 http redirection
+#### - archethic-foundation/archethic-website#99 like in production, synchronize the preprod branch to the preprod environment
 
 #### AE Keychains and ID Management
 - archethic-foundation/biometrics#43 Prototyping DID with Python and Libsodium Part 1/3: Implementing Cryptography Functions
 - archethic-foundation/biometrics#44 Prototyping DID with Python and Libsodium Part 2/3: Implementing Transaction Structure / Accessing
 - archethic-foundation/biometrics#45 Prototyping DID with Python and Libsodium Part 3/3: Implementing DID
 
+#### AE Wallet
+- archethic-foundation/archethic-wallet#206 Change account : if users change account before the loading of the keychain, the account selected is not selected
+- archethic-foundation/archethic-wallet#189 Contents (message) in transactions received are not available when we have several messages
+- archethic-foundation/archethic-wallet#214 Balance doesn't appear sometimes
+- archethic-foundation/archethic-wallet#220 Increase the nb of tx on the main screen
+- archethic-foundation/archethic-wallet#216 Access faucet - Simplify the process to return to the app
+- archethic-foundation/archethic-wallet#218 Add a way to hide/display balance info
+- archethic-foundation/archethic-wallet#217 Blog - pb with main screen refresh
+- archethic-foundation/archethic-wallet#219 Transfer UCO - Add control to check if the amount > 0
+
 ### Target
-- Total Issues: 28
-- Total Story Points: 
+- Total Issues: 39
+- Total Story Points: 177
 
 ### Target Achieved
-- Total Issues completed: 
-- Total Story Points completed: 
+- Total Issues completed: 28
+- Total Story Points completed: (need to be determined)
 
 ### Observations 
+

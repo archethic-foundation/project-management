@@ -1,4 +1,4 @@
-# Sprint 12 (Mount Basque)
+# Sprint 12 (Mount Baigura)
 
 > 14-July-22 to 27-July-22
 

@@ -5,6 +5,7 @@
 ### Goal
 
 #### AE Blockchain:
+- 
 -
 
 #### AE Website: 
@@ -15,7 +16,9 @@
 ### Scope
 
 #### AE Blockchain
- 
+- archethic-foundation/archethic-node#445 Transaction subscriber should also returns error
+
+
 
 #### AE Website
 
@@ -28,8 +31,11 @@
 - Total Issues: 
 - Total Story Points: 
 
+### Carry Overissues
+
 ### Target Achieved
 - Total Issues completed: 
 - Total Story Points completed 
 
 ### Observations 
+

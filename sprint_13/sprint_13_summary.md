@@ -26,11 +26,11 @@
 - Integrate in main page Nodes worldmap emplacement
 - Redesign the presentation of the blog section of the website
 
-#### AE Keychains and ID Management
+#### AE Keychains and ID Management:
 - Prototyping DID with Python and Libsodium
 - Mapping Decentralized Identity Processes to Device(Cryptoprocessor/Development Boards)
 
-#### AE Wallet
+#### AE Wallet:
 
 ### Target
 - Total Issues: 

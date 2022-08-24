@@ -41,9 +41,9 @@ Sprint Planned | Sprint Summary
 [Beacon chain loading takes to much time on explorer](https://github.com/archethic-foundation/archethic-node/issues/458) | Not Done
 [Add error detection in fetch](https://github.com/archethic-foundation/libjs/issues/65) | Done
 [Provide a way to get the last value of an oracle](https://github.com/archethic-foundation/archethic-node/issues/451) | Done
-[Verify scheduled transaction only happens once](https://github.com/archethic-foundation/archethic-node/issues/421) | Not Done
+[Verify scheduled transaction only happens once](https://github.com/archethic-foundation/archethic-node/issues/421) | Done
 [Verify if transaction exists before validation](https://github.com/archethic-foundation/archethic-node/issues/502) | Done
-[Prevent scheduled transaction to be sent in the same time by multiple nodes](https://github.com/archethic-foundation/archethic-node/issues/420) | Not Done
+[Prevent scheduled transaction to be sent in the same time by multiple nodes](https://github.com/archethic-foundation/archethic-node/issues/420) | Done
 
 
 #### AE Website

@@ -53,8 +53,8 @@ Sprint Planned (Highest Priority) | Sprint Summary
 ------------- | -------------
 [Blog's articles section - Change the data source of the summary #111](https://github.com/archethic-foundation/archethic-website/issues/111) | Done
 [Create a beautiful page for error 404, etc... #102](https://github.com/archethic-foundation/archethic-website/issues/102) | Done
-[Integrate in main page Nodes worldmap emplacement (3D map) #110](https://github.com/archethic-foundation/archethic-website/issues/110) | Done
-[Improve visibility of Governance section (pie chart) on mobile version #76](https://github.com/archethic-foundation/archethic-website/issues/76)| Done
+[Integrate in main page Nodes worldmap emplacement (3D map) #110](https://github.com/archethic-foundation/archethic-website/issues/110) | Not done
+[Improve visibility of Governance section (pie chart) on mobile version #76](https://github.com/archethic-foundation/archethic-website/issues/76)| Not Done
 [Project architecture - structuration and hidden files #83](https://github.com/archethic-foundation/archethic-website/issues/83)| Not Done
 [like in production, synchronize the preprod branch to the preprod environment #99](https://github.com/archethic-foundation/archethic-website/issues/99) | Not Done
 [http redirection #103](https://github.com/archethic-foundation/archethic-website/issues/103)| Not Done

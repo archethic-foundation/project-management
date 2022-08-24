@@ -33,18 +33,16 @@ Sprint Planned | Sprint Summary
 [Start listening P2P connections after complete bootstrap](https://github.com/archethic-foundation/archethic-node/issues/507) | Done
 [Transaction movement type mapping is incorrect](https://github.com/archethic-foundation/archethic-node/issues/497) | Done
 [Make chain replication asynchronous](https://github.com/archethic-foundation/archethic-node/issues/498) | Done
-[Improve latency handling](https://github.com/archethic-foundation/archethic-node/issues/494) | Done
 [Add the possibility to get the inputs in the smart contract ](https://github.com/archethic-foundation/archethic-node/issues/512) | Not Done
 [Resolve Metric issues, : poller don't get metrics correctly](https://github.com/archethic-foundation/archethic-node/issues/455) | Not Done
 [Handle sending timeouts in P2P clients](https://github.com/archethic-foundation/archethic-node/issues/510) | Not Done
-[Cancellation of GraphQL subscription](https://github.com/archethic-foundation/libjs/issues/67) | Not Done
 [Ensure network transaction type only passed in a network transaction chain](https://github.com/archethic-foundation/archethic-node/issues/423) | Not Done
 [Enforce resync of last network transactions after bootstrap] (https://github.com/archethic-foundation/archethic-node/issues/508) | Not Done
 [Beacon chain loading takes to much time on explorer](https://github.com/archethic-foundation/archethic-node/issues/458) | Not Done
-[Add error detection in fetch](https://github.com/archethic-foundation/libjs/issues/65) | Not Done
-[Provide a way to get the last value of an oracle](https://github.com/archethic-foundation/archethic-node/issues/451) | Not Done
+[Add error detection in fetch](https://github.com/archethic-foundation/libjs/issues/65) | Done
+[Provide a way to get the last value of an oracle](https://github.com/archethic-foundation/archethic-node/issues/451) | Done
 [Verify scheduled transaction only happens once](https://github.com/archethic-foundation/archethic-node/issues/421) | Not Done
-[Verify if transaction exists before validation](https://github.com/archethic-foundation/archethic-node/issues/502) | Not Done
+[Verify if transaction exists before validation](https://github.com/archethic-foundation/archethic-node/issues/502) | Done
 [Prevent scheduled transaction to be sent in the same time by multiple nodes](https://github.com/archethic-foundation/archethic-node/issues/420) | Not Done
 
 

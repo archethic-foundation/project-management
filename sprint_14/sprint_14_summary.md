@@ -5,7 +5,9 @@
 ### Goal
 
 #### AE Blockchain:
-
+- Hardening and stabilization of the network
+- Improve transaction processing integrity
+- Issue fixing
 
 #### AE Website: 
 - Create a 404 error page
@@ -126,7 +128,4 @@ Add a possibility to copy balances #221 | Done
 
 ### Target (AE Blockchain)
 - Total Issues: 12/22
-- Total Story Points: 48 pts
-
-
-### Observations 
+- Total Story Points: 48 pts (this is as of the demo meeting, some more reviews are expected to finish later today)

@@ -125,5 +125,5 @@ Add a possibility to copy balances #221 | Done
 - Total Story Points completed: 91 pts
 
 ### Target (AE Blockchain)
-- Total Issues: 14/22
+- Total Issues: 14/20
 - Total Story Points: 48 pts (this is as of the demo meeting, some more reviews are expected to finish later today)

@@ -37,7 +37,7 @@ Sprint Planned | Sprint Summary
 [Resolve Metric issues, : poller don't get metrics correctly](https://github.com/archethic-foundation/archethic-node/issues/455) | Not Done
 [Handle sending timeouts in P2P clients](https://github.com/archethic-foundation/archethic-node/issues/510) | Not Done
 [Ensure network transaction type only passed in a network transaction chain](https://github.com/archethic-foundation/archethic-node/issues/423) | Not Done
-[Enforce resync of last network transactions after bootstrap] (https://github.com/archethic-foundation/archethic-node/issues/508) | Not Done
+[Enforce resync of last network transactions after bootstrap](https://github.com/archethic-foundation/archethic-node/issues/508) | Not Done
 [Beacon chain loading takes to much time on explorer](https://github.com/archethic-foundation/archethic-node/issues/458) | Not Done
 [Add error detection in fetch](https://github.com/archethic-foundation/libjs/issues/65) | Done
 [Provide a way to get the last value of an oracle](https://github.com/archethic-foundation/archethic-node/issues/451) | Done

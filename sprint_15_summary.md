@@ -8,7 +8,7 @@
 - 
 
 #### AE Website: 
-- Integrate in main page Nodes worldmap emplacement (3D map)
+- Build 3D map for Nodes Worldmap
 - Fix minor bugs
 
 #### AE Wallet

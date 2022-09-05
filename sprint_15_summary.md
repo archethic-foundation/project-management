@@ -5,7 +5,8 @@
 ### Goal
 
 #### AE Blockchain:
-- 
+- Bug fixing (stabilization)
+- Improvement of developer experience (libraries & SDK)
 
 #### AE Website: 
 - Build 3D map for Nodes Worldmap
@@ -23,7 +24,6 @@ Sprint Planned | Sprint Summary
 ------------- | -------------
 [Enforce resync of last network transactions after bootstrap](archethic-foundation/archethic-node#508) |
 [Ensure network transaction type only passed in a network transaction chain](archethic-foundation/archethic-node#423)  |
-[Key generation using with User Input](archethic-foundation/biometrics#49) |
 [Beacon chain loading takes to much time on explorer](archethic-foundation/archethic-node#458) |
 [Drop transaction in beacon chains for slot and summaries](archethic-foundation/archethic-node#523) |
 [Prevent schedulers to be launched before end of bootstrap](archethic-foundation/archethic-node#543) |
@@ -33,7 +33,6 @@ Sprint Planned | Sprint Summary
 [Restrict extended cron expression in smart contract](archethic-foundation/archethic-node#540) |
 [Provide functions get oracle data](archethic-foundation/libjs#72) |
 [Resolve Metric issues, : poller don't get metrics correctly](archethic-foundation/archethic-node#455) |
-[Using the internal ledger private key as origin keys](archethic-foundation/archethic-ledger#36) |
 
 #### AE Website
 Sprint Planned | Sprint Summary
@@ -60,3 +59,9 @@ Sprint Planned | Sprint Summary
 [Add function to be notified of the error #270](https://github.com/archethic-foundation/archethic-wallet/issues/270)|
 [Add API to get last oracle value #271](https://github.com/archethic-foundation/archethic-wallet/issues/271)|
 Documentation Video update : no estimation|
+
+#### R&D
+Sprint Planned | Sprint Summary
+------------- | -------------
+[Key generation using with User Input](archethic-foundation/biometrics#49) |
+[Using the internal ledger private key as origin keys](archethic-foundation/archethic-ledger#36) |

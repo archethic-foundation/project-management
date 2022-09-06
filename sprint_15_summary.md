@@ -30,17 +30,25 @@ Sprint Planned | Sprint Summary
 [TokenAddress naming](archethic-foundation/archethic-node#525) |
 [Handle sending timeouts in P2P clients](archethic-foundation/archethic-node#510) |
 [Cancellation of GraphQL subscription](archethic-foundation/libjs#67) |
-[Restrict extended cron expression in smart contract](archethic-foundation/archethic-node#540) |
-[Provide functions get oracle data](archethic-foundation/libjs#72) |
+[Restrict extended cron expression in smart contract](archethic-foundation/archethic-node#540) | Done
+[Provide functions get oracle data](archethic-foundation/libjs#72) | Done
 [Resolve Metric issues, : poller don't get metrics correctly](archethic-foundation/archethic-node#455) |
+[Secret Ownership with multiple public keys not working using transactionBuilder.html #20] (archethic-foundation/libjs#20) | Done
+[Amount management. Int format (10^8) from end to end #75](archethic-foundation/libjs#75) | Done
 
 #### AE Website
 Sprint Planned | Sprint Summary
 ------------- | -------------
 [Integrate in main page Nodes worldmap emplacement (3D map) #110](https://github.com/archethic-foundation/archethic-website/issues/110)| 
 [Add medium link #104](https://github.com/archethic-foundation/archethic-website/issues/104)| 
-[Articles blog section - Don't display last article in global tab when this article is the last article globally #117](https://github.com/archethic-foundation/archethic-website/issues/117) | 
-[Remove all absolute paths #118](https://github.com/archethic-foundation/archethic-website/issues/118) | 
+[Articles blog section - Don't display last article in global tab when this article is the last article globally #117](https://github.com/archethic-foundation/archethic-website/issues/117) | Done
+[Remove all absolute paths #118](https://github.com/archethic-foundation/archethic-website/issues/118) | Done
+[Create a link to the aewallet.html page on the website main screen #105](https://github.com/archethic-foundation/archethic-website/issues/105)| Done
+[AEWallet : add link to apple store](https://github.com/archethic-foundation/archethic-website/issues/128)| Done
+[Add medium link #104](https://github.com/archethic-foundation/archethic-website/issues/104)| Done
+[Remove https://anchor.fm/uniris link from the bottom bar #125](https://github.com/archethic-foundation/archethic-website/issues/125)| Done
+
+
 
 #### AE Wallet
 Sprint Planned | Sprint Summary

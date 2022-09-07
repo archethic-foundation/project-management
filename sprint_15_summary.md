@@ -40,7 +40,7 @@ Sprint Planned | Sprint Summary
 [Amount management. Int format (10^8) from end to end #75](archethic-foundation/libjs#75) | Done
 
 #### AE Website
-- Total Issues completed: 8/9
+- Total Issues completed: 7/8
 - Total Story Points completed: 11 pts
 
 Sprint Planned | Sprint Summary
@@ -53,7 +53,6 @@ Sprint Planned | Sprint Summary
 [AEWallet : add link to apple store](https://github.com/archethic-foundation/archethic-website/issues/128)| Done
 [Add medium link #104](https://github.com/archethic-foundation/archethic-website/issues/104)| Done
 [Remove https://anchor.fm/uniris link from the bottom bar #125](https://github.com/archethic-foundation/archethic-website/issues/125)| Done
-[AEWallet : add link to apple store](archethic-foundation/archethic-website#128)| Done
 
 
 #### AE Wallet
@@ -91,4 +90,4 @@ Sprint Planned | Sprint Summary
 
 #### Summary 
 - Total Issues completed: 24/40
-- Total Story Points completed: 11 pts
+- Total Story Points completed: 104

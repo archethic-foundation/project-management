@@ -36,7 +36,7 @@ Sprint Planned | Sprint Summary
 [Restrict extended cron expression in smart contract](archethic-foundation/archethic-node#540) | Done
 [Provide functions get oracle data](archethic-foundation/libjs#72) | Done
 [Resolve Metric issues, : poller don't get metrics correctly](archethic-foundation/archethic-node#455) | Not Done 
-[Secret Ownership with multiple public keys not working using transactionBuilder.html #20] (archethic-foundation/libjs#20) | Done
+[Secret Ownership with multiple public keys not working using transactionBuilder.html #20](archethic-foundation/libjs#20) | Done
 [Amount management. Int format (10^8) from end to end #75](archethic-foundation/libjs#75) | Done
 
 #### AE Website

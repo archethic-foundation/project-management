@@ -25,17 +25,17 @@
 
 Sprint Planned | Sprint Summary
 ------------- | -------------
-[Enforce resync of last network transactions after bootstrap](archethic-foundation/archethic-node#508) | Not Done (In Progress)
+[Enforce resync of last network transactions after bootstrap](archethic-foundation/archethic-node#508) | Not Done 
 [Ensure network transaction type only passed in a network transaction chain](archethic-foundation/archethic-node#423) | Done
-[Beacon chain loading takes to much time on explorer](archethic-foundation/archethic-node#458) | Not Done (In Progress)
-[Drop transaction in beacon chains for slot and summaries](archethic-foundation/archethic-node#523) | Not Done (In Progress)
-[Prevent schedulers to be launched before end of bootstrap](archethic-foundation/archethic-node#543) | Not Done (In Progress)
-[TokenAddress naming](archethic-foundation/archethic-node#525) | Not Done (In Progress)
-[Handle sending timeouts in P2P clients](archethic-foundation/archethic-node#510) | Not Done (In Progress)
+[Beacon chain loading takes to much time on explorer](archethic-foundation/archethic-node#458) | Not Done 
+[Drop transaction in beacon chains for slot and summaries](archethic-foundation/archethic-node#523) | Not Done 
+[Prevent schedulers to be launched before end of bootstrap](archethic-foundation/archethic-node#543) | Not Done 
+[TokenAddress naming](archethic-foundation/archethic-node#525) | Not Done 
+[Handle sending timeouts in P2P clients](archethic-foundation/archethic-node#510) | Not Done 
 [Cancellation of GraphQL subscription](archethic-foundation/libjs#67) | Done 
 [Restrict extended cron expression in smart contract](archethic-foundation/archethic-node#540) | Done
 [Provide functions get oracle data](archethic-foundation/libjs#72) | Done
-[Resolve Metric issues, : poller don't get metrics correctly](archethic-foundation/archethic-node#455) | Not Done (In Progress)
+[Resolve Metric issues, : poller don't get metrics correctly](archethic-foundation/archethic-node#455) | Not Done 
 [Secret Ownership with multiple public keys not working using transactionBuilder.html #20] (archethic-foundation/libjs#20) | Done
 [Amount management. Int format (10^8) from end to end #75](archethic-foundation/libjs#75) | Done
 
@@ -45,7 +45,7 @@ Sprint Planned | Sprint Summary
 
 Sprint Planned | Sprint Summary
 ------------- | -------------
-[Integrate in main page Nodes worldmap emplacement (3D map) #110](https://github.com/archethic-foundation/archethic-website/issues/110)| Not Done (In progress)
+[Integrate in main page Nodes worldmap emplacement (3D map) #110](https://github.com/archethic-foundation/archethic-website/issues/110)| Not Done 
 [Add medium link #104](https://github.com/archethic-foundation/archethic-website/issues/104)| Done
 [Articles blog section - Don't display last article in global tab when this article is the last article globally #117](https://github.com/archethic-foundation/archethic-website/issues/117) | Done
 [Remove all absolute paths #118](https://github.com/archethic-foundation/archethic-website/issues/118) | Done
@@ -66,14 +66,14 @@ Sprint Planned | Sprint Summary
 [Phoenix - connection closed #265](https://github.com/archethic-foundation/archethic-wallet/issues/265)| Done
 [Error hive connection #261](https://github.com/archethic-foundation/archethic-wallet/issues/261)| Standby
 [Transfer UCO - Confirmation screen - Amount is rounded #264](https://github.com/archethic-foundation/archethic-wallet/issues/264)| Done
-[Error loading recent transactions when tx number > 10 #262](https://github.com/archethic-foundation/archethic-wallet/issues/262)| Not Done (Not Started)
+[Error loading recent transactions when tx number > 10 #262](https://github.com/archethic-foundation/archethic-wallet/issues/262)| Not Done 
 [Archethic Icon doesn't appear in notification for some android devices #245](https://github.com/archethic-foundation/archethic-wallet/issues/245)| Done
-[Flat theme - battery indicator is not visible #242](https://github.com/archethic-foundation/archethic-wallet/issues/242)| Not Done (Not Started)
-[NFT management #235](https://github.com/archethic-foundation/archethic-wallet/issues/235)| Not Done (Not finished)
+[Flat theme - battery indicator is not visible #242](https://github.com/archethic-foundation/archethic-wallet/issues/242)| Not Done 
+[NFT management #235](https://github.com/archethic-foundation/archethic-wallet/issues/235)| Not Done 
 [Protect message in a transaction #266](https://github.com/archethic-foundation/archethic-wallet/issues/266)| Done
 [UI Improvements #258](https://github.com/archethic-foundation/archethic-wallet/issues/258)| Done
 [Amount management. Int format (10^8) from end to end #269](https://github.com/archethic-foundation/archethic-wallet/issues/269)| Done
-[Add function to be notified of the error #270](https://github.com/archethic-foundation/archethic-wallet/issues/270)| Not Done (Not Started)
+[Add function to be notified of the error #270](https://github.com/archethic-foundation/archethic-wallet/issues/270)| Not Done 
 [Add API to get last oracle value #271](https://github.com/archethic-foundation/archethic-wallet/issues/271)| Done
 Documentation Video update : no estimation| Not Done (In Progress)
 [iOS - Configuration Apple Store](archethic-foundation/archethic-wallet#272)| Done
@@ -85,8 +85,8 @@ Documentation Video update : no estimation| Not Done (In Progress)
 
 Sprint Planned | Sprint Summary
 ------------- | -------------
-[Key generation using with User Input](archethic-foundation/biometrics#49) | Not Done (In Progress)
-[Using the internal ledger private key as origin keys](archethic-foundation/archethic-ledger#36) | Not Done (In Progress)
+[Key generation using with User Input](archethic-foundation/biometrics#49) | Not Done 
+[Using the internal ledger private key as origin keys](archethic-foundation/archethic-ledger#36) | Not Done 
 
 
 #### Summary 

@@ -20,14 +20,14 @@
 
 #### AE Wallet
 
-- o
+- Stabilize the app post mainnet
+- New feature: NFT management
+- Document the app
 
 #### AE Website
 
 ### AE Research
 
-- o
--
 
 ## Scope
 

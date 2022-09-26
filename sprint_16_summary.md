@@ -98,15 +98,16 @@
 | [Add build information near the version number in the menu](archethic-foundation/archethic-wallet#285)      | Done           |
 | [Precise waiting confirmation informations](archethic-foundation/archethic-wallet#282)                      | Done           |
 | [Rename token naming in the API calls](archethic-foundation/archethic-wallet#284)                           | Done           |
-| [Protect message in a transaction](archethic-foundation/archethic-wallet#266)                               | Not Done       |
+| [Protect message in a transaction](archethic-foundation/archethic-wallet#266)                               | Done           |
+| [Message from a secret doesn't appear for the receiver](archethic-foundation/archethic-wallet#280)          | Done           |
+| [Add a contact from a transaction received or sent](archethic-foundation/archethic-wallet#275)              | Done           |
 | [NFT management](archethic-foundation/archethic-wallet#235)                                                 | Not Done       |
 | [Flat theme - battery indicator is not visible](archethic-foundation/archethic-wallet#242)                  | Not Done       |
 | [Error loading recent transactions when tx number > 10](archethic-foundation/archethic-wallet#262)          | Not Done       |
 | [Error hive connection](archethic-foundation/archethic-wallet#261)                                          | Not Done       |
 | [Keyboard hides infos or buttons](archethic-foundation/archethic-wallet#139)                                | Not Done       |
-| [Message from a secret doesn't appear for the receiver](archethic-foundation/archethic-wallet#280)          | Not Done       |
 | [Add function to be notified of the error](archethic-foundation/archethic-wallet#270)                       | Not Done       |
-| [Add a contact from a transaction received or sent](archethic-foundation/archethic-wallet#275)              | Not Done       |
+
 
 #### R&D
 

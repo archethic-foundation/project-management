@@ -76,31 +76,29 @@
 
 #### AE Wallet
 
-- Total Issues completed: 10/16
-- Total Story Points completed: 70 pts
+- Total Issues completed: 14/18
+- Total Story Points completed: 97 pts
 
 | Sprint Planned                                                                                              | Sprint Summary |
 | ----------------------------------------------------------------------------------------------------------- | -------------- |
-| [Prevent user from jailbreak](archethic-foundation/archethic-wallet#289)                                    | Done           |
-| [Add an option "Flat" on each theme instead of a specific theme](archethic-foundation/archethic-wallet#279) | Done           |
-| [mac - Configuration Apple Mac Store feature](archethic-foundation/archethic-wallet#281)                    | Done           |
-| [Add a control to avoid sending tokens to yourself](archethic-foundation/archethic-wallet#295)              | Done           |
+| [Error loading recent transactions when tx number > 10](archethic-foundation/archethic-wallet#262)          | Not Done       |
+| [Flat theme - battery indicator is not visible](archethic-foundation/archethic-wallet#242)                  | Not Done       |
+| [Message from a secret doesn't appear for the receiver](archethic-foundation/archethic-wallet#280)          | Done           |
+| [Protect message in a transaction](archethic-foundation/archethic-wallet#266)                               | Done           |
+| [NFT management](archethic-foundation/archethic-wallet#235)                                                 | Not Done       |
+| [Add function to be notified of the error](archethic-foundation/archethic-wallet#270)                       | Not Done       |
+| [Precise waiting confirmation informations](archethic-foundation/archethic-wallet#282)                      | Done           |
+| [Add a contact from a transaction received or sent](archethic-foundation/archethic-wallet#275)              | Done           |
 | [Video update - September](archethic-foundation/archethic-wallet#286)                                       | Done           |
-| [Improve outlines](archethic-foundation/archethic-wallet#294)                                               | Done           |
+| [Add build information near the version number in the menu](archethic-foundation/archethic-wallet#285)      | Done           |
+| [Windows - Configuration feature](archethic-foundation/archethic-wallet#301)                                | Done           |
+| [Add an option "Flat" on each theme instead of a specific theme](archethic-foundation/archethic-wallet#279) | Done           |
+| [Add a control to avoid sending tokens to yourself](archethic-foundation/archethic-wallet#295)              | Done           |
+| [Memory leak ](archethic-foundation/archethic-wallet#287)                                                   | Done           |
+| [Problem displaying recent transactions](archethic-foundation/archethic-wallet#290)                         | Done           |
 | [Check PickerWidget with small screen](archethic-foundation/archethic-wallet#298)                           | Done           |
 | [Access to receive sheet from accounts list with long press](archethic-foundation/archethic-wallet#297)     | Done           |
-| [Add build information near the version number in the menu](archethic-foundation/archethic-wallet#285)      | Done           |
-| [Precise waiting confirmation informations](archethic-foundation/archethic-wallet#282)                      | Done           |
-| [Rename token naming in the API calls](archethic-foundation/archethic-wallet#284)                           | Done           |
-| [Protect message in a transaction](archethic-foundation/archethic-wallet#266)                               | Done           |
-| [Message from a secret doesn't appear for the receiver](archethic-foundation/archethic-wallet#280)          | Done           |
-| [Add a contact from a transaction received or sent](archethic-foundation/archethic-wallet#275)              | Done           |
-| [NFT management](archethic-foundation/archethic-wallet#235)                                                 | Not Done       |
-| [Flat theme - battery indicator is not visible](archethic-foundation/archethic-wallet#242)                  | Not Done       |
-| [Error loading recent transactions when tx number > 10](archethic-foundation/archethic-wallet#262)          | Not Done       |
-| [Error hive connection](archethic-foundation/archethic-wallet#261)                                          | Not Done       |
-| [Keyboard hides infos or buttons](archethic-foundation/archethic-wallet#139)                                | Not Done       |
-| [Add function to be notified of the error](archethic-foundation/archethic-wallet#270)                       | Not Done       |
+| [Improve outlines](archethic-foundation/archethic-wallet#294)                                               | Done           |
 
 
 #### R&D

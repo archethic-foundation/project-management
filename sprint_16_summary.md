@@ -29,7 +29,7 @@
 
 #### AE Blockchain
 
-- Total Issues completed: 12/18
+- Total Issues completed: 25/27
 - Total Story Points completed: 23 pts
 
 | Sprint Planned                                                                                         | Sprint Summary |
@@ -56,12 +56,12 @@
 | [Prevent schedulers to be launched before end of bootstrap](archethic-foundation/archethic-node#543)   | Done           |
 | [Rename token naming in the API calls](archethic-foundation/libdart#33)                                | Done           |
 | [Explorer Inputs misplaced](archethic-foundation/archethic-node#560)                                   | Done           |
-| [Add node rewards chain explorer](archethic-foundation/archethic-node#413)                             | Not Done       |
-| [Add node shared secrets chain explorer](archethic-foundation/archethic-node#411)                      | Not Done       |
-| [Certificate for Custom domains](archethic-foundation/archethic-node#449)                              | Not Done       |
+| [Add node rewards chain explorer](archethic-foundation/archethic-node#413)                             | Done           |
+| [Add node shared secrets chain explorer](archethic-foundation/archethic-node#411)                      | Done           |
+| [Certificate for Custom domains](archethic-foundation/archethic-node#449)                              | Done           |
 | [Add timestamp in the unspent outputs](archethic-foundation/archethic-node#564)                        | Not Done       |
-| [Add origin chain explorer](archethic-foundation/archethic-node#412)                                   | Not Done       |
-| [Resolve Metric issues, : poller don't get metrics correctly](archethic-foundation/archethic-node#455) | Not Done       |
+| [Add origin chain explorer](archethic-foundation/archethic-node#412)                                   | Done           |
+| [Resolve Metric issues, : poller don't get metrics correctly](archethic-foundation/archethic-node#455) | Done           |
 
 #### AE Website
 

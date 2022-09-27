@@ -25,9 +25,12 @@
 - Document the app
 
 #### AE Website
+- Update website with the nodes world map (3D)
+- Other bug fixes
 
 ### AE Research
-
+- Structuring R&D processes
+- Documentation Alignment
 
 ## Scope
 
@@ -77,7 +80,7 @@
 | Sprint Planned                                                                                           | Sprint Summary |
 | -------------------------------------------------------------------------------------------------------- | -------------- |
 | [Wallet: Add link to mac Store](archethic-foundation/archethic-website#130)                              | Done           |
-| [Integrate in main page Nodes worldmap emplacement (3D map)](archethic-foundation/archethic-website#110) | Not Done       |
+| [Integrate in main page Nodes worldmap emplacement (3D map)](archethic-foundation/archethic-website#110) | Done           |
 | [Background pictures bug on newsfeed](archethic-foundation/archethic-website#122)                        | Not Done       |
 
 #### AE Wallet
@@ -123,3 +126,5 @@
 
 - Total Issues completed: 24/40
 - Total Story Points completed: 104
+
+

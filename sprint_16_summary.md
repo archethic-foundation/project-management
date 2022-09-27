@@ -5,9 +5,6 @@
 ## Sprint Goals
 
 ### AE Backend (Core Blockchain):
-
-#### AE Blockchain
-
 - Display more information on the explorer (network transaction listing, latest transactions realtime)
 - Better management of timeouts for P2P communication
 - Better management of P2P availability (BeaconChain)
@@ -17,16 +14,10 @@
 - Support of HTTPS for AEWeb websites
 
 ### AE Frontend (Wallet + Website):
-
-#### AE Wallet
-
 - Stabilize the app post mainnet
 - New feature: NFT management
 - Document the app
-
-#### AE Website
 - Update website with the nodes world map (3D)
-- Other bug fixes
 
 ### AE Research
 - Structuring R&D processes

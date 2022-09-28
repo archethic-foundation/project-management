@@ -29,8 +29,8 @@
 
 #### AE Blockchain
 
-- Total Issues completed: 25/27
-- Total Story Points completed: 23 pts
+- Total Issues completed: 27/27
+- Total Story Points completed: 131 pts
 
 | Sprint Planned                                                                                         | Sprint Summary |
 | ------------------------------------------------------------------------------------------------------ | -------------- |
@@ -59,25 +59,27 @@
 | [Add node rewards chain explorer](archethic-foundation/archethic-node#413)                             | Done           |
 | [Add node shared secrets chain explorer](archethic-foundation/archethic-node#411)                      | Done           |
 | [Certificate for Custom domains](archethic-foundation/archethic-node#449)                              | Done           |
-| [Add timestamp in the unspent outputs](archethic-foundation/archethic-node#564)                        | Not Done       |
 | [Add origin chain explorer](archethic-foundation/archethic-node#412)                                   | Done           |
 | [Resolve Metric issues, : poller don't get metrics correctly](archethic-foundation/archethic-node#455) | Done           |
 
-#### AE Website
+#### AE Website 
 
-- Total Issues completed: 7/8
-- Total Story Points completed: 11 pts
+- Total Issues completed: 1/3
+- Total Story Points completed: 24 pts 
 
 | Sprint Planned                                                                                           | Sprint Summary |
 | -------------------------------------------------------------------------------------------------------- | -------------- |
 | [Wallet: Add link to mac Store](archethic-foundation/archethic-website#130)                              | Done           |
-| [Integrate in main page Nodes worldmap emplacement (3D map)](archethic-foundation/archethic-website#110) | Done           |
-| [Background pictures bug on newsfeed](archethic-foundation/archethic-website#122)                        | Not Done       |
+| [Integrate in main page Nodes worldmap emplacement (3D map)](archethic-foundation/archethic-website#110) | Pending        |
+| [Background pictures bug on newsfeed](archethic-foundation/archethic-website#122)                        | Pending.       |
+
+53 / 7
 
 #### AE Wallet
 
 - Total Issues completed: 14/18
-- Total Story Points completed: 97 pts
+- Total Story Points completed: 105 / 125
+(* 40 story points for the video)
 
 | Sprint Planned                                                                                              | Sprint Summary |
 | ----------------------------------------------------------------------------------------------------------- | -------------- |
@@ -85,7 +87,7 @@
 | [Flat theme - battery indicator is not visible](archethic-foundation/archethic-wallet#242)                  | Not Done       |
 | [Message from a secret doesn't appear for the receiver](archethic-foundation/archethic-wallet#280)          | Done           |
 | [Protect message in a transaction](archethic-foundation/archethic-wallet#266)                               | Done           |
-| [NFT management](archethic-foundation/archethic-wallet#235)                                                 | Not Done       |
+| [NFT management](archethic-foundation/archethic-wallet#235)                                                 | Done           |
 | [Add function to be notified of the error](archethic-foundation/archethic-wallet#270)                       | Not Done       |
 | [Precise waiting confirmation informations](archethic-foundation/archethic-wallet#282)                      | Done           |
 | [Add a contact from a transaction received or sent](archethic-foundation/archethic-wallet#275)              | Done           |
@@ -95,21 +97,21 @@
 | [Add an option "Flat" on each theme instead of a specific theme](archethic-foundation/archethic-wallet#279) | Done           |
 | [Add a control to avoid sending tokens to yourself](archethic-foundation/archethic-wallet#295)              | Done           |
 | [Memory leak ](archethic-foundation/archethic-wallet#287)                                                   | Done           |
-| [Problem displaying recent transactions](archethic-foundation/archethic-wallet#290)                         | Done           |
+| [Problem displaying recent transactions](archethic-foundation/archethic-wallet#290)                         | Not Done       |
 | [Check PickerWidget with small screen](archethic-foundation/archethic-wallet#298)                           | Done           |
 | [Access to receive sheet from accounts list with long press](archethic-foundation/archethic-wallet#297)     | Done           |
 | [Improve outlines](archethic-foundation/archethic-wallet#294)                                               | Done           |
 
 
-#### R&D
+#### AE Ledger
 
 - Total Issues completed: 0/2
-- Total Story Points completed: 0 pts
+- Total Story Points completed: 29 pts
 
 | Sprint Planned                                                                                   | Sprint Summary |
 | ------------------------------------------------------------------------------------------------ | -------------- |
-| [Key generation using with User Input](archethic-foundation/biometrics#49)                       | Done           |
-| [Using the internal ledger private key as origin keys](archethic-foundation/archethic-ledger#36) | Not Done       |
+| [Key generation using with User Input](archethic-foundation/biometrics#49)                       | Pending        |
+| [Using the internal ledger private key as origin keys](archethic-foundation/archethic-ledger#36) | Pending        |
 
 #### Summary
 

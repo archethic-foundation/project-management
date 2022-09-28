@@ -62,7 +62,7 @@
 | [Add origin chain explorer](archethic-foundation/archethic-node#412)                                   | Done           |
 | [Resolve Metric issues, : poller don't get metrics correctly](archethic-foundation/archethic-node#455) | Done           |
 
-#### AE Website 
+### AE Website 
 
 - Total Issues completed: 1/3
 - Total Story Points completed: 24 pts 
@@ -75,7 +75,7 @@
 
 53 / 7
 
-#### AE Wallet
+### AE Wallet
 
 - Total Issues completed: 14/18
 - Total Story Points completed: 105 / 125
@@ -103,7 +103,7 @@
 | [Improve outlines](archethic-foundation/archethic-wallet#294)                                               | Done           |
 
 
-#### AE Ledger
+### AE Ledger
 
 - Total Issues completed: 0/2
 - Total Story Points completed: 29 pts
@@ -113,9 +113,10 @@
 | [Key generation using with User Input](archethic-foundation/biometrics#49)                       | Pending        |
 | [Using the internal ledger private key as origin keys](archethic-foundation/archethic-ledger#36) | Pending        |
 
-#### Summary
 
-- Total Issues completed: 24/40
-- Total Story Points completed: 104
+### Summary
+
+- Total Issues completed: 50
+- Total Story Points completed: 309
 
 

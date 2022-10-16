@@ -9,10 +9,9 @@
 - ****
 - ****
 
-### AE Frontend (Wallet + Website):
-- ****
-- ****
-- ****
+### AE Frontend (Wallet):
+- Migrate to state management architecture
+- New feature: NFT management
 
 ### AE Research
 - Structuring R&D processes after feedback

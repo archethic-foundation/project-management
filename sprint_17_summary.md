@@ -5,9 +5,10 @@
 ## Sprint Goals
 
 ### AE Backend (Core Blockchain):
-- ****
-- ****
-- ****
+- Bug fixes & Stability
+- Smart Contract enhancements
+- Node settings
+- Security enhancements
 
 ### AE Frontend (Wallet):
 - Migrate to state management architecture
@@ -28,18 +29,13 @@
 
 | Sprint Planned                                                                                                  | Sprint Summary |
 | ------------------------------------------------------------------------------------------------------          | -------------- |
-| [Add comparison date function in the SC library](archethic-foundation/archethic-node#615)                       | Pending       |
-| [Check the validity of addresses in the SC statements](archethic-foundation/archethic-node#616).                | Pending       |
-| [Specify the hash algorithm in the SC library functions](archethic-foundation/archethic-node#610).              | Pending       |
 | [Notify beacon summary in case of network topology change](archethic-foundation/archethic-node#566).            | Pending       |
-| [Specify the hash algorithm in the SC library functions](archethic-foundation/archethic-node#610).              | Pending       |
-| [Add timestamp function in SC library](archethic-foundation/archethic-node#609).                                | Pending       |
-| [Add timestamp in sc#612](archethic-foundation/archethic-node#612).                                             | Pending       |
+| [Add timestamp function in SC library](archethic-foundation/archethic-node#609).                                | Done.         |
 | [Support multiple format like ESM & CommonJS](archethic-foundation/libjs#87).                                   | Done.         |
-| [Origin transaction should verify existing public key#583](archethic-foundation/archethic-node#583).            | Pending       |
+| [Origin transaction should verify existing public key#583](archethic-foundation/archethic-node#583).            | Done.         |
 | [Certificate in origin_key api is not checked#584](archethic-foundation/archethic-node#584).                    | Pending       |
 | [Catch error in proof of work to get contracts parsing error#628](archethic-foundation/archethic-node#628).     | Pending       |
-| [Fix scheduler bugs#630](archethic-foundation/archethic-node#630).                                              | Pending       |
+| [Fix scheduler bugs#630](archethic-foundation/archethic-node#630).                                              | Done.         |
 | [Add timestamp in the unspent outputs#564](archethic-foundation/archethic-node#564).                            | Done.         |
 | [Fix sc trigger validation#625](archethic-foundation/archethic-node#625).                                       | Done.         |
 | [Node's settings page#618](archethic-foundation/archethic-node#618).                                            | Done.         |

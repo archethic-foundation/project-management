@@ -24,8 +24,8 @@
 
 #### AE Blockchain
 
-- Total Issues completed: 
-- Total Story Points completed: 
+- Total Issues completed: 28/31
+- Total Story Points completed: 98
 
 | Sprint Planned                                                                                                  | Sprint Summary |
 | ------------------------------------------------------------------------------------------------------          | -------------- |
@@ -63,23 +63,10 @@
 | [Add SSL certificate and key#78](archethic-foundation/libjs#78).                                                | Done.         |
 
 
-
-### AE Website 
-
-- Total Issues completed: 
-- Total Story Points completed: 
-
-| Sprint Planned                                                                                           | Sprint Summary |
-| -------------------------------------------------------------------------------------------------------- | -------------- |
-| [Dynamic roadmap#136](archethic-foundation/archethic-website#122)                                        | Pending        |
-| [Background pictures bug on newsfeed](archethic-foundation/archethic-website#122)                        | Pending        |
-
-
 ### AE Wallet
 
-- Total Issues completed: 14/18
-- Total Story Points completed: 105 / 125
-(* 40 story points for the video)
+- Total Issues completed: 26/27
+- Total Story Points completed: 102
 
 | Sprint Planned                                                                                                                  | Sprint Summary |
 | -----------------------------------------------------------------------------------------------------------                     | -------------- |
@@ -113,18 +100,14 @@
 | [Add a link to Microsoft Store for the Wallet #134](archethic-foundation/archethic-wallet#134)                                  |     Done       |
 | [Create a new icon app#135](archethic-foundation/archethic-wallet#135)                                                          |     Done       |
 
-
-
-
-
-### AE Research
-
-- Total Issues completed: 
-- Total Story Points completed: 
-
+### AE Website 
+| Sprint Planned                                                                                           | Sprint Summary |
+| -------------------------------------------------------------------------------------------------------- | -------------- |
+| [Dynamic roadmap#136](archethic-foundation/archethic-website#122)                                        | Pending        |
+| [Background pictures bug on newsfeed](archethic-foundation/archethic-website#122)                        | Pending        |
 
 
 ### Summary
 
-- Total Issues completed: 
-- Total Story Points completed: 
+- Total Issues completed: 54/58
+- Total Story Points completed: 201

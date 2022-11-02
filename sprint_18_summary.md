@@ -13,3 +13,37 @@
 ### AE Research
 
 
+## Scope
+
+### AE Backend (Core Blockchain):
+
+#### AE Blockchain
+
+- Total Issues completed: 
+- Total Story Points completed: 
+
+| Sprint Planned                                                                                                  | Sprint Summary |
+| ------------------------------------------------------------------------------------------------------          | -------------- |
+| [Add SSL certificate and key#78](archethic-foundation/libjs#78).                                                | Done.          |
+
+
+### AE Wallet
+
+- Total Issues completed: 
+- Total Story Points completed: 
+
+| Sprint Planned                                                                                                                  | Sprint Summary |
+| -----------------------------------------------------------------------------------------------------------                     | -------------- |
+| [Recreate keychain automatically if nodes are reset](archethic-foundation/archethic-wallet#302)                                 | Pending.       |
+
+
+### AE Website 
+| Sprint Planned                                                                                           | Sprint Summary |
+| -------------------------------------------------------------------------------------------------------- | -------------- |
+| [Dynamic roadmap#136](archethic-foundation/archethic-website#122)                                        | Pending        |
+
+
+### Summary
+
+- Total Issues completed: 
+- Total Story Points completed: 

@@ -7,11 +7,12 @@
 ### AE Backend (Core Blockchain):
 
 
-### AE Frontend (Wallet + Website):
-
+### Wallet
+- Migrate to state management architecture
+- Update Icons
+- New feature: NFT management
 
 ### AE Research
-
 
 ## Scope
 

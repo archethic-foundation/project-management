@@ -5,7 +5,8 @@
 ## Sprint Goals
 
 ### AE Backend (Core Blockchain):
-
+- Goal 1
+- Goal 2
 
 ### Wallet
 - Migrate to state management architecture

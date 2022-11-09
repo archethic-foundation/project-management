@@ -10,7 +10,7 @@
 - Improve SC SDK
 - Improve AEWEB API
 
-## AEWEB CLI
+### AEWEB CLI
 - Improve update of websites
 - Reduce size of deployed websites
 
@@ -19,7 +19,7 @@
 - Update Icons
 - New feature: NFT management
 
-### AE Research
+### Research
 - Finish research of Malicious Detection and Elimination Algorithm 
 - Get started with Node Gamification Research (Literature Review, Idea and Hypothesis validation)
 

@@ -14,6 +14,8 @@
 - New feature: NFT management
 
 ### AE Research
+- Finish research of Malicious Detection and Elimination Algorithm 
+- Get started with Node Gamification Research (Literature Review, Idea and Hypothesis validation)
 
 ## Scope
 

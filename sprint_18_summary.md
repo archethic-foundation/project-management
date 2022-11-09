@@ -5,8 +5,14 @@
 ## Sprint Goals
 
 ### AE Backend (Core Blockchain):
-- Goal 1
-- Goal 2
+- Bug fixes and stabilization for P2P/SelfRepair in order to include more nodes
+- Migration for technical debt (Elixir/Dependencies)
+- Improve SC SDK
+- Improve AEWEB API
+
+## AEWEB CLI
+- Improve update of websites
+- Reduce size of deployed websites
 
 ### Wallet
 - Migrate to state management architecture
@@ -28,7 +34,7 @@
 
 | Sprint Planned                                                                                                  | Sprint Summary |
 | ------------------------------------------------------------------------------------------------------          | -------------- |
-| [Add SSL certificate and key#78](archethic-foundation/libjs#78).                                                | Done.          |
+archethic-foundation/archethic-node#675 Add send timeout on connection                                            | Done.          |
 archethic-foundation/archethic-node#638 Upgrade js dependencies to fix vulnerabilities                            | Done.          |
 archethic-foundation/archethic-node#649 Ensure download of self repair on other locally available nodes           | Done.          |
 archethic-foundation/archethic-node#647 Deterministic transaction fee                                             | Done.          |
@@ -39,13 +45,39 @@ archethic-foundation/archethic-node#656 Prevent update of node availability hist
 archethic-foundation/archethic-node#657 Stop self repair if transaction's processing failed                       | Done.          |
 archethic-foundation/archethic-node#653 Fix beacon date projections                                               | Done.          |
 archethic-foundation/archethic-node#658 Update dependencies                                                       | Done.          |
-archethic-foundation/archethic-node#660 Prevent existing beacon aggregate to be rewritten on migrate.sh execu….   | Done.          |
+archethic-foundation/archethic-node#660 Prevent existing beacon aggregate to be rewritten on migrate.sh           | Done.          |
 archethic-foundation/archethic-node#651 Version transaction structs to ease data migrations                       | Done.          |
 archethic-foundation/archethic-node#662 Fix bootstraping bugs                                                     | Done.          |
 archethic-foundation/archethic-node#665 Fix connection                                                            | Done.          |
 archethic-foundation/archethic-node#666 Handle ipv6 local ip in node settings page                                | Done.          |
 archethic-foundation/archethic-node#667 Add lower timeout for replication error notification                      | Done.          |
 archethic-foundation/archethic-node#669 Update installation and release scripts to use asdf                       | Done.          |
+archethic-foundation/archethic-node#642 Improve connection timeout                                                | Pending.       |
+archethic-foundation/archethic-node#596 Listing directory for web hosting deployment without index.html           | Pending        |
+archethic-foundation/archethic-node#643 Provide AEWEB API to return hash of all files for a website               | Pending        |
+archethic-foundation/archethic-node#644 Improve files responses by caching content                                | Pending        |
+archethic-foundation/archethic-node#628 Improve smart contract interpreter (error handling)                       | Pending        |
+archethic-foundation/archethic-node#624 Purge spend UTXO in the Account mem tables                                | Pending        |
+archethic-foundation/archethic-node#627 Determines whether transaction input is spent from the last transaction   | Pending        |
+archethic-foundation/archethic-node#639 Add API to get beacon's aggregate                                         | Pending        |
+archethic-foundation/archethic-node#610 Specify hash of algorithm in SC library                                   | Pending        |
+archethic-foundation/archethic-node#615 Add comparison date in SC library                                         | Pending        |
+archethic-foundation/archethic-node#640 Add token id function in SC library                                       | Pending        |
+archethic-foundation/archethic-node#616 Check validity of addresses in SC                                         | Pending        |
+
+
+
+## AEWEB CLI
+
+- Total Issues completed: 
+- Total Story Points completed: 
+
+| Sprint Planned                                                                                                  | Sprint Summary |
+| ------------------------------------------------------------------------------------------------------          | -------------- |
+archethic-foundation/aeweb-cli#82 Support of .git and .gitignore                                                  | Pending |
+archethic-foundation/aeweb-cli#83 Handle website update                                                           | Pending |
+archethic-foundation/aeweb-cli#81 Modularize code                                                                 | Done |
+
 
 
 ### AE Wallet

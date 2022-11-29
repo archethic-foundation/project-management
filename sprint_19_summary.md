@@ -35,14 +35,43 @@
 | Sprint Planned                                                                                                  | Sprint Summary |
 | ------------------------------------------------------------------------------------------------------          | -------------- |
 archethic-foundation/archethic-node#675 Add send timeout on connection                                            | Done.          |
-
-## AEWEB CLI
-
-- Total Issues completed: 
-- Total Story Points completed: 
-
-| Sprint Planned                                                                                                  | Sprint Summary |
-| ------------------------------------------------------------------------------------------------------          | -------------- |
+archethic-foundation/archethic-node#714 Add ownerships in "token" graphQL request                                 | Done.          |
+archethic-foundation/archethic-node#693 Calcul node reward based on scheduler time                                | Done.          |
+archethic-foundation/archethic-node#712 Update last transaction address only if the timestamp is greater          | Done.          |
+archethic-foundation/archethic-node#701 Add new API to get the version number of running code                       | Done.          |
+archethic-foundation/archethic-node#677 Fix validation node election                                                | Done.          |
+archethic-foundation/archethic-node#624 Purge Account UTXO table once an input is spent                                | Done.          |
+archethic-foundation/archethic-node#697 Remove old daily keys from ets table                                        | Done.          |
+archethic-foundation/archethic-node#692 Add quorum to request balance                                              | Done.          |
+archethic-foundation/archethic-node#678 Check transaction's address existence during validation                     | Done.          |
+archethic-foundation/archethic-node#663 Fix replication tree when sharding is applied                               | Done.          |
+archethic-foundation/archethic-node#663 Fix replication tree when sharding is applied                               | Done.          |
+archethic-foundation/archethic-node#691 Add default `code_change/4` in GenStateMachine                              | Done.          |
+archethic-foundation/archethic-node#688 Fix recursion of notify last address                                        | Done.          |
+archethic-foundation/archethic-node#627 Determines whether transaction input is spent from the last transaction in the chain    | Done.          |
+archethic-foundation/archethic-node#661 Add @vsn attribute in genservers to prepare hot reload                      | Done.          |
+archethic-foundation/archethic-node#661 Add @vsn attribute in genservers to prepare hot reload                      | Done.          |
+archethic-foundation/archethic-node#681 Fix Proof of work existence for node transaction                            | Done.          |
+archethic-foundation/archethic-node#685 Improve Task's timeout handling                                             | Done.          |
+archethic-foundation/archethic-node#683 Use current node view for downloading while in self repair                  | Done.          |
+archethic-foundation/archethic-node#679 Fix genesis pool amounts & addresses                                        | Done.          |
+archethic-foundation/archethic-node#672 Optimize ack of previous shards                                             | Done.          |
+archethic-foundation/archethic-node#672 Optimize ack of previous shards                                             | Pending.          |
+archethic-foundation/aeweb-cli#86 Add more informations in reference transaction                                     | Pending.          |
+archethic-foundation/aeweb-cli#86 Add more informations in reference transaction                                     | Pending.          |
+archethic-foundation/archethic-node#628 Catch error in proof of work to get contracts parsing error                  | Pending.          |
+archethic-foundation/aeweb-cli#82 Support of .git folder and .gitignore                                              | Pending.          |
+archethic-foundation/archethic-node#596 Listing directory for web hosting deployment without index.html             | Pending.          |
+archethic-foundation/archethic-node#696 Do not send replication message if validation has error                      | Pending.          |
+archethic-foundation/archethic-node#710 Use asynchronous connection                                                   | Pending.          |
+archethic-foundation/archethic-node#695 Number of validation nodes should not be more than replica number             | Pending.          |
+archethic-foundation/archethic-node#699 Oracle live display new oracle summary on any page                           | Pending.          |
+archethic-foundation/aeweb-cli#83 Handle website update                                                               | Pending.          |
+archethic-foundation/archethic-node#645 Fix self-repair notifier                                                         | Pending.          |
+archethic-foundation/archethic-node#566 Notify beacon summary in case of network topology change                       | Pending.          |
+archethic-foundation/archethic-node#566 Notify beacon summary in case of network topology change                        | Pending.          |
+archethic-foundation/archethic-node#642 Improving connection timeout                                                   | Pending.          |
+archethic-foundation/aeweb-cli#67 Not possible to push a basic site                                                | Done.          |
 
 
 

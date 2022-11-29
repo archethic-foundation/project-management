@@ -23,9 +23,6 @@
 ### Archethic Website
 - Maintenance
 
-### Research
-
-
 ## Scope
 
 ### AE Backend (Core Blockchain):

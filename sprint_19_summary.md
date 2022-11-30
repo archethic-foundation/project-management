@@ -32,7 +32,7 @@
 
 #### AE Blockchain
 
-- Total Issues completed: 23
+- Total Issues completed: 24
 - Total Story Points completed: 114
 
 | Sprint Planned                                                                                                  | Sprint Summary |
@@ -65,7 +65,7 @@ archethic-foundation/archethic-node#596 Listing directory for web hosting deploy
 archethic-foundation/archethic-node#696 Do not send replication message if validation has error                     | Pending.          |
 archethic-foundation/archethic-node#710 Use asynchronous connection                                                 | Pending.          |
 archethic-foundation/archethic-node#695 Number of validation nodes should not be more than replica number           | Pending.          |
-archethic-foundation/archethic-node#699 Oracle live display new oracle summary on any page                          | Pending.          |
+archethic-foundation/archethic-node#699 Oracle live display new oracle summary on any page                          | Done.          |
 archethic-foundation/archethic-node#645 Fix self-repair notifier                                                    | Pending.          |
 archethic-foundation/archethic-node#566 Notify beacon summary in case of network topology change                    | Pending.          |
 archethic-foundation/archethic-node#642 Improving connection timeout                                                | Pending.          |

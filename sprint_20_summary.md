@@ -104,7 +104,7 @@ archethic-foundation/aeweb-cli#82 Support of .git folder and .gitignore         
 - Total Story Points estimated: 13
 
 - Total Issues completed: 0
-- Total Story Points completed: à
+- Total Story Points completed: 0
 
 | Sprint Planned                                            | Sprint Summary |
 | --------------------------------------------------------- | -------------- |
@@ -139,8 +139,8 @@ archethic-foundation/aeweb-cli#82 Support of .git folder and .gitignore         
 
 ### Summary
 
-- Total Issues estimated: 
-- Total Story Points estimated: 
+- Total Issues estimated: 39
+- Total Story Points estimated: 283
 
-- Total Issues completed: 
-- Total Story Points completed: 
+- Total Issues completed: 25
+- Total Story Points completed: 131

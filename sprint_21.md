@@ -5,12 +5,21 @@
 ## Sprint Goals
 
 ### AE Backend (Core Blockchain):
+- Smart Contract enhancements
+- BeaconChain network patch
+- Optimize memory & handle off-loading of ETS tables
+- Rework on the NAT Discovery to support more network configuration
+- Enhancements of APIs
+
+### AEWeb
+- Integrating tache 
+- Optimizaztions for websites updates
+- SSL certificate automation
+- Publish Github Actions
 
 ### Wallet
 
 ### Dart SDK
-
-### Bridge
 
 ### AE Collection generator
 

@@ -18,12 +18,25 @@
 - Publish Github Actions
 
 ### Wallet
+- Yubikey SDK (PIV)
+- AEIP 4 / Decentralized app / Wallet communication
+- Tests end to end
+- Help users to manage their tokens (burn/hide features)
+- Maintenance
 
 ### Dart SDK
+- Improve and standardize architecture
+- Maintenance
+
+### Bridge
+- Manage feedbacks from HTML/CSS integration
 
 ### AE Collection generator
+- Provide the MVP
+- AEIP 4 / Decentralized app / Wallet communication
 
 ### Archethic Website
+- Maintenance
 
 ## Scope
 

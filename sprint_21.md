@@ -12,8 +12,8 @@
 - Enhancements of APIs
 
 ### AEWeb
-- Integrating tache 
-- Optimizaztions for websites updates
+- Integrating cache 
+- Optimizations for websites updates
 - SSL certificate automation
 - Publish Github Actions
 

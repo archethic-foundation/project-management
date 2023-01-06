@@ -10,6 +10,7 @@
 - Optimize memory & handle off-loading of ETS tables
 - Rework on the NAT Discovery to support more network configuration
 - Enhancements of APIs
+- Smart Contract's fee
 
 ### AEWeb
 - Integrating cache 

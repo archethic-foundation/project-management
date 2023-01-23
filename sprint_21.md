@@ -16,7 +16,7 @@
 - Integrating cache 
 - Optimizations for websites updates
 - SSL certificate automation
-- Publish Github Actions
+- Adapt & Publish Github Actions
 
 ### Wallet
 - Yubikey SDK (PIV)

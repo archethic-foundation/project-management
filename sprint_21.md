@@ -106,8 +106,8 @@
 | -------------- | -------------- |
 |archethic-foundation/aeweb-cli#92 Fix deploy                                                                                   | done.      |
 |archethic-foundation/aeweb-cli#86 Add more informations in reference transaction                                               | done.      |
-|archethic-foundation/aeweb-cli#82 Support of .git folder and .gitignore                                                        |  done      |
-|archethic-foundation/aeweb-cli#83 Handle website update                                                                        |  Pending.  |
+|archethic-foundation/aeweb-cli#82 Support of .git folder and .gitignore                                                        | done.      |
+|archethic-foundation/aeweb-cli#83 Handle website update                                                                        | Pending.   |
 
 
 ### Wallet
@@ -121,8 +121,8 @@
 | Sprint Planned                                                                                                                               | Sprint Summary |
 | -------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
 | https://github.com/archethic-foundation/archethic-wallet/issues/580 Error when the size of a NFT exceeds the size of the transaction content | Not done.      |
-| https://github.com/archethic-foundation/archethic-wallet/issues/569  Burn                                                                    | Not done.      |
-| https://github.com/archethic-foundation/archethic-wallet/issues/552 Allow to hide tokens on his wallet                                       | Not done.      |
+| https://github.com/archethic-foundation/archethic-wallet/issues/569  Burn                                                                    | Not done. (AEIP6)      |
+| https://github.com/archethic-foundation/archethic-wallet/issues/552 Allow to hide tokens on his wallet                                       | Not done.(AEIP6)       |
 | https://github.com/archethic-foundation/archethic-wallet/issues/612 Use Yubikey to manage seed                                               | Not done.      |
 
 ### Dart SDK

@@ -46,10 +46,10 @@
 #### AE Blockchain
 
 - Total Issues estimated: 40
-- Total Story Points estimated: 67 (Pending) + 145(completed) + 78 (backlog) = 290
+- Total Story Points estimated: 67 (Pending) + 148(completed) + 78 (backlog) = 290
 
-- Total Issues completed: 24
-- Total Story Points completed: 145
+- Total Issues completed: 25
+- Total Story Points completed: 148
 
 | Sprint Planned                                                                                                            | Sprint Summary |
 | ------------------------------------------------------------------------------------------------------------------------- | -------------- |
@@ -74,7 +74,7 @@
 | archethic-foundation/archethic-node#823 DB: nested fields are returned empty                                              | done           |
 | archethic-foundation/archethic-node#825 Bug: Restarting a node is not starting the SC workers                             | done           |
 | archethic-foundation/archethic-node#610 Specify the hash algorithm in the SC library functions                            | done           |
-| archethic-foundation/archethic-node#740 Add `get_first_address` in smart contract library                                 | Not done       |
+| archethic-foundation/archethic-node#740 Add `get_first_address` in smart contract library                                 | done           |
 | archethic-foundation/archethic-node#826 SC functions to work on lists                                                     | Not done       |
 | archethic-foundation/archethic-node#843 Check_the_validity_of_addresses_in_the_SC_statements#616                          | Not done       |
 | archethic-foundation/archethic-node#799 Refactor Message module                                                           | done           |
@@ -82,7 +82,6 @@
 | archethic-foundation/archethic-node#616 Check the validity of addresses in the SC statements                              | Not done       |
 | archethic-foundation/archethic-node#642 Improving connection timeout                                                      | Not done       |
 | archethic-foundation/archethic-node#607 Implement the SC transaction fee model                                            | Not done       |
-| archethic-foundation/archethic-node#757 Update Node's geo patch with mmdb2 updates                                        | Not done       |
 | archethic-foundation/archethic-node#796 Write inputs of burn address in DB instead of keeping it in memory                | Not done       |
 | archethic-foundation/archethic-node#47 Support inheritance exception based on the multiple secrets and proof of ownership | Not done       |
 | archethic-foundation/archethic-node#159 Create a program to compute network patch                                         | Not done       |

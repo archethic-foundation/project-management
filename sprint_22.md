@@ -5,8 +5,11 @@
 ## Sprint Goals
 
 ### AE Backend (Core Blockchain):
-
-### AEWeb Backend
+- Smart Contract Enhancements
+- Optimize memory & handle off-loading of ETS tables
+- Packaging solutions for industrialization
+- Rework on the NAT Discovery to support more network configuration
+- Smart Contract transaction fees
 
 ### Wallet
 - AEIP 4 / Decentralized app / Wallet communication

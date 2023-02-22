@@ -50,6 +50,18 @@
 
 | Sprint Planned | Sprint Summary |
 | -------------- | -------------- |
+| [Use previous reward address when sending node transaction](https://github.com/archethic-foundation/archethic-node/issues/909) | |
+| [Add pending validation control on replication nodes](https://github.com/archethic-foundation/archethic-node/issues/907) | |
+| [Invalid certificate while it should be valid](https://github.com/archethic-foundation/archethic-node/issues/907) | |
+| [Enhance validation of keychain & keychain access transaction](https://github.com/archethic-foundation/archethic-node/issues/882) | |
+| [API nearest endpoints return node list in reverse order](https://github.com/archethic-foundation/archethic-node/issues/905) | |
+| [Improve synchronization when node ip changes](https://github.com/archethic-foundation/archethic-node/issues/887) | |
+| [Constantly re synchonize network transactions](https://github.com/archethic-foundation/archethic-node/issues/912) | |
+| [Prepare Docker image for publish and support code upgrades](https://github.com/archethic-foundation/archethic-node/issues/911) | |
+| [Write inputs of burn address in DB instead of keeping it in memory](https://github.com/archethic-foundation/archethic-node/issues/796) | |
+| [Transaction amount should verify it is BigInt](https://github.com/archethic-foundation/archethic-node/issues/893) | |
+| [Improve SC interval triggers](https://github.com/archethic-foundation/archethic-node/issues/812) | |
+
 
 #### AEWeb
 
@@ -61,6 +73,9 @@
   
 | Sprint Planned | Sprint Summary |
 | -------------- | -------------- |
+| [Keychain management](https://github.com/archethic-foundation/aeweb-github-action/issues/8) | |
+| [Update management](https://github.com/archethic-foundation/aeweb-github-action/issues/9) | |
+
 
 ### Wallet
 
@@ -105,6 +120,7 @@
 
 | Sprint Planned | Sprint Summary |
 | -------------- | -------------- |
+| [Using the internal ledger private key as origin keys ](https://github.com/archethic-foundation/archethic-ledger/issues/36) | |
 
 ### AE SDK 
 
@@ -116,6 +132,8 @@
 
 | Sprint Planned | Sprint Summary |
 | -------------- | -------------- |
+| [Fix the isomorphic build](https://github.com/archethic-foundation/libjs/issues/106) | | 
+| [Update the lib to match the last updates and add unit tests](https://github.com/archethic-foundation/libgo/issues/1) | |
 
 ### Summary
 

@@ -9,7 +9,7 @@
 - Code proposals & On-Chain governance
 - Smart Contracts Interpreter
 - BeaconChain network patch
-- Self-Repair improvements
+- Synchronizations improvements
 
 ### Wallet
 - AEIP 4 / Decentralized app / Wallet communication

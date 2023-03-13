@@ -1,6 +1,6 @@
 # Sprint 22 (La Dune du Pila)
 
-> 30/01/2023 to 17/02/2023
+> 30/01/2023 to 24/02/2023
 
 ## Sprint Goals
 

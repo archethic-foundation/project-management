@@ -1,6 +1,6 @@
 # Sprint 23 (Gran Paradiso)
 
-> 22/02/2023 to 14/03/2023
+> 27/02/2023 to 17/03/2023
 
 ## Sprint Goals
 

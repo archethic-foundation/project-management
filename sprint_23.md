@@ -101,6 +101,7 @@
 - Total Story Points completed:
 
 | Sprint Planned | Sprint Summary |
+| ------------------------------------------------------------------------------------------------------------- | -------------- |
 | [Generate a specific AES Key for each secret](https://github.com/archethic-foundation/archethic-wallet/issues/676) | Done |
 | [Hosting transactions don't appear in recent tx](https://github.com/archethic-foundation/archethic-wallet/issues/687) | Done |
 | [Message icon too small in recent tx](https://github.com/archethic-foundation/archethic-wallet/issues/664) | Done (external contribution) |
@@ -142,7 +143,7 @@
 
 | Sprint Planned                                                                                                              | Sprint Summary |
 | --------------------------------------------------------------------------------------------------------------------------- | -------------- |
-| [Using the internal ledger private key as origin keys ](https://github.com/archethic-foundation/archethic-ledger/issues/36) |                |
+| [Using the internal ledger private key as origin keys ](https://github.com/archethic-foundation/archethic-ledger/issues/36) |    Pending     |
 
 ### AE SDK 
 

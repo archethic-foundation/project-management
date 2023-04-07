@@ -8,17 +8,18 @@
 
 
 ### Wallet
-
-
-### AE Explorer
+- AEIP 4 / Decentralized app / Wallet communication
+  - Deployment app wallet on stores
+  - Script video wallet update / blog - medium article
+- Security Audit
 
 ### AEWeb Front end
-
+- MVP
+  
 ### AEWeb Github Actions
 
 ### Bridge
-
-### Archethic Website
+- Go to mainnet
 
 ### Archethic Ledger
 
@@ -36,20 +37,8 @@
 - Total Issues completed: 
 - Total Story Points completed: 
 
-| Sprint Planned                                                                                                                          | Sprint Summary |
-| --------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
-
-
-#### AEWeb
-
-- Total Issues estimated: 
-- Total Story Points estimated:
-
-- Total Issues completed:
-- Total Story Points completed: 
-   
-| Sprint Planned                                                                                                | Sprint Summary |
-| ------------------------------------------------------------------------------------------------------------- | -------------- |
+| Sprint Planned | Sprint Summary |
+| -------------- | -------------- |
 
 
 ### Wallet
@@ -60,10 +49,14 @@
 - Total Issues completed:
 - Total Story Points completed:
 
-| Sprint Planned | Sprint Summary |
-| -------------- | -------------- |
+| Sprint Planned                                                                                                  | Sprint Summary |
+| --------------------------------------------------------------------------------------------------------------- | -------------- |
+| https://github.com/archethic-foundation/archethic-wallet/pull/717 Fix rpc commands                              | Done           |
+| https://github.com/archethic-foundation/archethic-wallet/pull/716 Using flutter default localizations mechanism | Done           |
+| https://github.com/archethic-foundation/archethic-wallet/pull/715 Add new RPC Command to sign transactions      | Done           |
 
-### AE Collection generator
+
+### AE Collection generator CLI
 
 - Total Issues estimated: 
 - Total Story Points estimated: 
@@ -71,7 +64,9 @@
 - Total Issues completed:
 - Total Story Points completed:
 
-| Sprint Planned | Sprint Summary |
+| Sprint Planned                                                                                        | Sprint Summary |
+| ----------------------------------------------------------------------------------------------------- | -------------- |
+| https://github.com/archethic-foundation/collection-generator-cli/issues/4 Adapt NFT Content Structure | Not done       |
 
 ### AE Website 
 
@@ -81,8 +76,10 @@
 - Total Issues completed:
 - Total Story Points completed:
 
-| Sprint Planned | Sprint Summary |
-| -------------- | -------------- |
+| Sprint Planned                                                                    | Sprint Summary |
+| --------------------------------------------------------------------------------- | -------------- |
+| https://github.com/archethic-foundation/archethic-website/pull/171 Update roadmap | Done           |
+
 
 ### AE Ledger 
 
@@ -92,8 +89,8 @@
 - Total Issues completed: 
 - Total Story Points completed:
 
-| Sprint Planned                                                                                                              | Sprint Summary |
-| --------------------------------------------------------------------------------------------------------------------------- | -------------- |
+| Sprint Planned | Sprint Summary |
+| -------------- | -------------- |
 
 ### AE SDK 
 
@@ -103,8 +100,8 @@
 - Total Issues completed: 
 - Total Story Points completed: 
 
-| Sprint Planned                                                                                             | Sprint Summary |
-| ---------------------------------------------------------------------------------------------------------- | -------------- |
+| Sprint Planned | Sprint Summary |
+| -------------- | -------------- |
 
 ### AE Smart Contract Playground 
 
@@ -114,8 +111,8 @@
 - Total Issues completed: 
 - Total Story Points completed: 
 
-| Sprint Planned                                                                                    | Sprint Summary |
-| ------------------------------------------------------------------------------------------------- | -------------- |
+| Sprint Planned | Sprint Summary |
+| -------------- | -------------- |
 
 ### Summary
 

@@ -1,33 +1,26 @@
 # Sprint 25 (Puy de Montoncel)
 
-> 10/04/2023 to 28/04/2023
+> 22/05/2023 to 09/06/2023
 
 ## Sprint Goals
 
 ### AE Backend (Core Blockchain):
 
 ### Wallet
-- AEIP 4 / Decentralized app / Wallet communication
 
 ### AEWeb Front end
-- MVP
   
 ### AEWeb CLI
-- Keychain’s Management
   
 ### Bridge
-- Add refund feature
 
 ### Archethic Website
-- Rebranding
   
 ### Archethic Ledger
 
 ### NFT Collection CLI
-- Deploy on NPM
 
 ### SDKs
-- Libjs: AEIP 4 / Decentralized app / Wallet communication
 
 ## Scope
 
